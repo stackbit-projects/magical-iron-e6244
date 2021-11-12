@@ -1,5 +1,5 @@
 ---
-title: SabreDao | An Ultra Exclusive NFT CLlub
+title: SabreDao
 sections:
   - type: hero_section
     title: WELCOME TO SABREDAO
