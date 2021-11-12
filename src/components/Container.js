@@ -4,7 +4,6 @@ import React  from "react";
 import { Props } from "./props";
 
 export default class Container extends React.Component {
-    const {className, children} = this.props;
     const className = _.get(this.props, 'className');
     const children = _.get(this.props, 'children');
     return (
