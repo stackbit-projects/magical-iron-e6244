@@ -91,7 +91,9 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
-      - title: MILESTONE $
+      - title: |-
+          100% - Welcome
+          Cryptopunk
         content: >
           Once mint is fully sold out, SabreDAO will acquire its first
           cryptopunk. Staking and yield farming will begin. More raffles will be
