@@ -81,10 +81,12 @@ sections:
         media_position: left
         media_width: fifty
       - title: 75% - Around the World
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          SabreTigers belong to the billboards of the world. To celebrate this
+          milestone, we will be launching the biggest marketing campaign around
+          the world. Imagine your NFT being shown in the middle of time square,
+          the whole world will know you are a proud owner of a premier NFT
+          project. Everyone will be watching.
         actions: []
         image: /images/75.png
         image_alt: Feature 3 placeholder image
