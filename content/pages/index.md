@@ -265,7 +265,7 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-        title: Where can I buy an Angry Ape?
+        title: Where can I buy a Sabre Tiger?
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
