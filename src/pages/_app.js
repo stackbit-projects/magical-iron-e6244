@@ -6,5 +6,6 @@ export default function MyApp({ Component, pageProps }) {
     return (
     <AnimatePresence exitBeforeEnter>
 
-    <Component {...pageProps} />;
+    <Component {...pageProps} />
+    );
 }
