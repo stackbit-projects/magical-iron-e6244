@@ -5,7 +5,7 @@ import { Props } from "./props";
 
 export default class Container extends React.Component {
     const {className, children} = this.props;
-    const action = _.get(this.props, 'action');
+    const className = _.get(this.props, 'className');
     return (
     <div className={clsx("px-4 mx-auto max-w-screen-md", className)}>
       {children}
