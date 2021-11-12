@@ -195,10 +195,7 @@ sections:
     has_border: true
   - type: grid_section
     title: THE SABREDAO TEAM
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
+    actions: []
     grid_items:
       - title: FOUNDER
         subtitle: Co-Founder & CEO
