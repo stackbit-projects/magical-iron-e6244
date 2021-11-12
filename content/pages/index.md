@@ -269,7 +269,7 @@ sections:
         image_position: left
         image_width: twenty-five
         title: What makes us different?
-      - title: lorem-ipsum
+      - title: Who is the team?
         subtitle: lorem-ipsum
         title_align: left
         content: >-
