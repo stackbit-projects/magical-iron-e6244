@@ -274,6 +274,7 @@ sections:
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
+        title: What makes us different?
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
