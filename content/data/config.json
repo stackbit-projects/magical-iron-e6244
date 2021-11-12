@@ -2,7 +2,7 @@
     "title": "Stackbit DIY Theme",
     "path_prefix": "/",
     "layout_type": "boxed",
-    "style": "classic",
+    "style": "bold",
     "palette": "gray",
     "mode": "dark",
     "base_font": "serif",
