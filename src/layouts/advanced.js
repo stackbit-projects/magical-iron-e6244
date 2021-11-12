@@ -17,18 +17,18 @@ export default class Advanced extends React.Component {
         return (
 
             const IndexPage = () => {
-  const [citation, setCitation] = useState(true);
-  const [main, setMain] = useState(false);
-  const { t } = useTranslation("common");
+            const [citation, setCitation] = useState(true);
+            const [main, setMain] = useState(false);
+            const { t } = useTranslation("common");
 
-  useEffect(() => {
-    const ids = [
-      setTimeout(() => setCitation(false), 4800),
-      setTimeout(() => setMain(true), 5700),
-    ];
+            useEffect(() => {
+                const ids = [
+                setTimeout(() => setCitation(false), 4800),
+                setTimeout(() => setMain(true), 5700),
+                ];
 
-    return () => ids.forEach((id) => clearTimeout(id));
-  }, [setCitation]);
+                return () => ids.forEach((id) => clearTimeout(id));
+            }, [setCitation]);
             <Layout page={page} config={config}>
                 {_.map(sections, (section, index) => {
                     const sectionType = _.get(section, 'type');
