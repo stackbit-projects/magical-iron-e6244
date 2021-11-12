@@ -25,17 +25,24 @@ sections:
     background_color: none
   - section_id: lorem-ipsum
     title: CONGRATULATIONS
-    content: >-
-      ## Lorem ipsum
+    content: >
+      You found the SabreDAO, an ultra-exclusive club with unparalleled utility
+      and community. 
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      SabreDAO is the premier of fractional DAO, 40% of initial mint revenue
+      will be used to purchase Blue-Chip NFTs CryptoPunk and more. 10% of
+      initial mint revenue will be used for marketing. 50% of royalities from
+      secondary sales will return to the DAO community wallet.
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      Snag a SabreTiger and enter the metaverse of cryptomillionaires. Being a
+      member of the SabreDAO allows you to gain access to parties, meetups,
+      networking sessions with accomplished entreprenuers and celebrities.
+      Besides red-carpet events in New York City, London and Singapore, SabreDAO
+      members are privileged to participate in exclusive raffles and giveaway
+      events such as a limited not-for-sale $ABRE Merchandise, Tesla Model 3 and
+      other giveaways.
     actions: []
     actions_position: bottom
     actions_width: fourty
