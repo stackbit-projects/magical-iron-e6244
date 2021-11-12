@@ -15,7 +15,7 @@ const textVariants = {
   },
 };
 
-export const CitationOverlay: FC<Props> = ({ citation }: Props) => {
+export default class Container extends React.Component {
   const { t } = useTranslation();
 
   return (
