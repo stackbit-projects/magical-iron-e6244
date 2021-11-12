@@ -92,7 +92,6 @@ sections:
         media_position: right
         media_width: fifty
       - title: MILESTONE $
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
