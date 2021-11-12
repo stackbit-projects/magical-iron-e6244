@@ -16,6 +16,8 @@ const textVariants = {
 };
 
 export default class CitationOverlay extends React.Component {
+render() {
+
   const { t } = useTranslation();
 
   return (
