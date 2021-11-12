@@ -297,7 +297,7 @@ sections:
         style: primary
     actions_position: bottom
     align: center
-    padding_top: small
+    padding_top: medium
     padding_bottom: small
     background_color: none
 seo:
