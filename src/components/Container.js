@@ -12,5 +12,5 @@ export default class Container extends React.Component {
         {children}
         </div>
         );
-        
+     }
 };
