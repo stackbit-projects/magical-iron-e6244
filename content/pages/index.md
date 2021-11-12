@@ -200,7 +200,7 @@ sections:
         url: /style-guide
         style: primary
     grid_items:
-      - title: TEAM
+      - title: FOUNDER
         subtitle: Co-Founder & CEO
         title_align: center
         image: /images/base character tiger.png
