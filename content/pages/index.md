@@ -208,7 +208,7 @@ sections:
       - title: CO-FOUNDER/DEV
         subtitle: Software Engineer
         title_align: center
-        image: images/dianne-ameter.jpg
+        image: /images/base character tiger.png
         image_position: top
       - title: ART DIRECTOR
         subtitle: Developer Advocate
