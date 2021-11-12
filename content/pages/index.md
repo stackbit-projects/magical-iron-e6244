@@ -222,7 +222,7 @@ sections:
         image_position: top
     grid_cols: four
     align: center
-    background_color: secondary
+    background_color: none
   - type: grid_section
     title: FREQUENTLY ASKED QUESTIONS
     grid_items:
