@@ -100,7 +100,7 @@ sections:
   - type: grid_section
     title: $SABRE TOKEN
     grid_items:
-      - title: Section Item 1
+      - title: UTILITY 1
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
