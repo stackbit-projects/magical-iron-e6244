@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 import { motion } from 'framer-motion';
-import CitationOverlay from '../components;
+import CitationOverlay from '../components';
 
 
 import components, { Layout } from '../components/index';
