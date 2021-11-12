@@ -1,5 +1,5 @@
 import clsx from "clsx";
-import React, { FC } from "react";
+import React  from "react";
 
 import { Props } from "./props";
 
