@@ -283,7 +283,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: lorem-ipsum
+      - title: Why should we buy it?
         subtitle: lorem-ipsum
         title_align: left
         content: >-
