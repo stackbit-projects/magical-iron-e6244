@@ -23,7 +23,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-  - section_id: lorem-ipsum
+  - section_id: congratulations
     title: CONGRATULATIONS
     content: >
       You found the SabreDAO, an ultra-exclusive club with unparalleled utility
