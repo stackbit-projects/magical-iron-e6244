@@ -4,8 +4,7 @@ import '../sass/main.scss';
 export default function MyApp({ Component, pageProps }) {
     return (
         <AnimatePresence exitBeforeEnter>
-      <Component {...pageProps} key={router.route} />
-    </AnimatePresence>
     <Component {...pageProps} />
+    </AnimatePresence>
     );
 }
