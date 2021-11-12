@@ -194,7 +194,7 @@ sections:
     background_color: none
     has_border: true
   - type: grid_section
-    title: Team Section
+    title: THE SABREDAO TEAM
     actions:
       - label: Join the team
         url: /style-guide
