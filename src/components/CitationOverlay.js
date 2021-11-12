@@ -49,7 +49,6 @@ render() {
                 duration: 1.2,
             }}
             >
-            <NinjaIcon className="w-10 mb-2 fill-current md:ml-auto dark:text-white-900 text-black-900" />
             </motion.div>
             <motion.p
             className="mt-4 mb-2 text-xl font-medium leading-none md:text-2xl dark:text-white-900 text-black-900 md:my-0"
