@@ -194,6 +194,37 @@ sections:
     background_color: none
     has_border: true
   - type: grid_section
+    title: Team Section
+    subtitle: Grid Section Example
+    actions:
+      - label: Join the team
+        url: /style-guide
+        style: primary
+    grid_items:
+      - title: Gustav Purpleson
+        subtitle: Co-Founder & CEO
+        title_align: center
+        image: images/gustav-purpleson.jpg
+        image_position: top
+      - title: Dianne Ameter
+        subtitle: Software Engineer
+        title_align: center
+        image: images/dianne-ameter.jpg
+        image_position: top
+      - title: Hugh Saturation
+        subtitle: Developer Advocate
+        title_align: center
+        image: images/hugh-saturation.jpg
+        image_position: top
+      - title: Hilary Ouse
+        subtitle: Operations Manager
+        title_align: center
+        image: images/hilary-ouse.jpg
+        image_position: top
+    grid_cols: four
+    align: center
+    background_color: secondary
+  - type: grid_section
     title: FREQUENTLY ASKED QUESTIONS
     grid_items:
       - content: >
@@ -318,37 +349,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - type: grid_section
-    title: Team Section
-    subtitle: Grid Section Example
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
-    grid_items:
-      - title: Gustav Purpleson
-        subtitle: Co-Founder & CEO
-        title_align: center
-        image: images/gustav-purpleson.jpg
-        image_position: top
-      - title: Dianne Ameter
-        subtitle: Software Engineer
-        title_align: center
-        image: images/dianne-ameter.jpg
-        image_position: top
-      - title: Hugh Saturation
-        subtitle: Developer Advocate
-        title_align: center
-        image: images/hugh-saturation.jpg
-        image_position: top
-      - title: Hilary Ouse
-        subtitle: Operations Manager
-        title_align: center
-        image: images/hilary-ouse.jpg
-        image_position: top
-    grid_cols: four
-    align: center
-    background_color: secondary
   - type: blog_feed_section
     title: What's New
     subtitle: Blog Feed Section Example
