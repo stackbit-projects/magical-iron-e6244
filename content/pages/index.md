@@ -205,7 +205,7 @@ sections:
         title_align: center
         image: /images/base character tiger.png
         image_position: top
-      - title: CO-FOUNDER
+      - title: CO-FOUNDER/DEV
         subtitle: Software Engineer
         title_align: center
         image: images/dianne-ameter.jpg
