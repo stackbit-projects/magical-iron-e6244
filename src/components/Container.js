@@ -1,7 +1,6 @@
 import clsx from "clsx";
 import React  from "react";
 
-import { Props } from "./props";
 
 export const Container: FC<Props> = ({ className, children }: Props) => {
   return (
