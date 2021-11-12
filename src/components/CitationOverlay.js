@@ -79,4 +79,4 @@ render() {
     </motion.div>
   );
 }
-};
+}
