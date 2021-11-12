@@ -7,38 +7,39 @@
     "mode": "dark",
     "base_font": "sans-serif",
     "header": {
-        "title": "DIY",
+        "title": "SabreDao | An Ultra Exclusive NFT CLlub",
         "logo": "images/classic/logo.svg",
         "logo_alt": "DIY logo",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "Features",
+                "label": "ROADMAP",
                 "url": "/features",
                 "style": "link"
             },
             {
-                "label": "Pricing",
+                "label": "$SABRE",
                 "url": "/pricing",
                 "style": "link"
             },
             {
-                "label": "About",
+                "label": "TEAM",
                 "url": "/about",
                 "style": "link"
             },
             {
-                "label": "Blog",
+                "label": "FAQ",
                 "url": "/blog",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
+                "label": "MINT NOW",
                 "url": "/style-guide",
-                "style": "link"
+                "style": "primary",
+                "has_icon": true
             }
         ],
-        "has_secondary_nav": true,
+        "has_secondary_nav": false,
         "secondary_nav_links": [
             {
                 "label": "Contact",
@@ -70,6 +71,16 @@
             },
             {
                 "label": "Discord",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "Etherscan",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
