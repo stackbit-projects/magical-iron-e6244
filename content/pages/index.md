@@ -92,17 +92,15 @@ sections:
         media_position: right
         media_width: fifty
       - title: MILESTONE $
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Once mint is fully sold out, SabreDAO will acquire its first
+          cryptopunk. Staking and yield farming will begin. More raffles will be
+          coming your way. More information on our official discord and social
+          media pages
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Join the SabreDAO Metaverse Club where $ABRE will be the currency to
+          purchase
         actions: []
         image_alt: lorem-ipsum
         media_position: left
