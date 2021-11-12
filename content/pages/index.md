@@ -4,9 +4,13 @@ sections:
   - type: hero_section
     title: WELCOME TO SABREDAO
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >+
+      SabreDao is a unique NFT collection of 10,000 Sabre Tigers generated from
+      over 200+ hand drawn traits. The team and artists have worked on this
+      project for over 2 months now, focusing on the development, quality of art
+      and giving you the best marketing.
+
+
     actions:
       - label: MINT NOW
         url: /features
