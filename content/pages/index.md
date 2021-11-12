@@ -8,7 +8,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
-      - label: Learn More
+      - label: MINT NOW
         url: /features
         style: secondary
     image: /images/ClaimApe.2e198c2d.gif
