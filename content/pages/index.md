@@ -109,7 +109,7 @@ sections:
         media_position: left
         media_width: thirty-three
         align: left
-        image: /images/about-1.jpg
+        image: /images/100.png
     feature_padding_vert: large
     align: center
     background_color: none
