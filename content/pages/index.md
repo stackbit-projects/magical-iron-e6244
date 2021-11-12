@@ -195,7 +195,6 @@ sections:
     has_border: true
   - type: grid_section
     title: Team Section
-    subtitle: Grid Section Example
     actions:
       - label: Join the team
         url: /style-guide
