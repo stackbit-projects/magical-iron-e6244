@@ -110,7 +110,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         media_position: left
-        media_width: fifty
+        media_width: thirty-three
         align: left
         image: /images/about-1.jpg
     feature_padding_vert: large
