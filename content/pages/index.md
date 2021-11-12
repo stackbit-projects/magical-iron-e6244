@@ -215,7 +215,7 @@ sections:
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
-      - title: Hilary Ouse
+      - title: MARKETING HEAD
         subtitle: Operations Manager
         title_align: center
         image: images/hilary-ouse.jpg
