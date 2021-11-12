@@ -15,7 +15,7 @@ export default class Advanced extends React.Component {
         const pageUrl = getPageUrl(page);
 
         return (
-
+                
             
             <Layout page={page} config={config}>
                 {_.map(sections, (section, index) => {
