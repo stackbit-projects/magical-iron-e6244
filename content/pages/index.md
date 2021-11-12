@@ -298,7 +298,7 @@ sections:
     actions_position: bottom
     align: center
     padding_top: medium
-    padding_bottom: small
+    padding_bottom: medium
     background_color: none
 seo:
   title: Stackbit DIY Theme
