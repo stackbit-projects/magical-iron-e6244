@@ -97,7 +97,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-        image: /images/100.png
+        image: /images/about-1.jpg
     feature_padding_vert: large
     align: center
     background_color: none
