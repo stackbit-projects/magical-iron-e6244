@@ -98,7 +98,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Cards Grid Section
+    title: $SABRE TOKEN
     subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
