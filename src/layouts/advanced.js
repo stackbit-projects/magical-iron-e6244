@@ -16,19 +16,7 @@ export default class Advanced extends React.Component {
         const sections = _.get(page, 'sections');
         const pageUrl = getPageUrl(page);
 
-        const [citation, setCitation] = useState(true);
-            const [main, setMain] = useState(false);
-            const { t } = useTranslation("common");
-
-            useEffect(() => {
-                const ids = [
-                setTimeout(() => setCitation(false), 4800),
-                setTimeout(() => setMain(true), 5700),
-                ];
-
-                return () => ids.forEach((id) => clearTimeout(id));
-            }, [setCitation]);    
-
+       
         return (
             
             
