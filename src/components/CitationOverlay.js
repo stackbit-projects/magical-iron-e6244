@@ -78,5 +78,5 @@ render() {
       </Container>
     </motion.div>
   );
-        }
+}
 };
