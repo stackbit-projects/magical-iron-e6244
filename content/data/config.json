@@ -15,7 +15,7 @@
             {
                 "label": "ROADMAP",
                 "url": "/features",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "label": "$SABRE",
