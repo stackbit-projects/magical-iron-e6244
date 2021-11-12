@@ -83,7 +83,7 @@
         "secondary_nav_title": "Project",
         "secondary_nav_links": [
             {
-                "label": "News",
+                "label": "Whitepaper",
                 "url": "/blog/category/news",
                 "style": "link"
             },
