@@ -97,6 +97,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
+    has_border: true
   - type: grid_section
     title: $SABRE TOKEN
     grid_items:
