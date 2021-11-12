@@ -73,10 +73,14 @@ sections:
       - title: |-
           50% - New York, New
           York
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          It is time to up the ante. The first 50% of SabreDAO holder will be
+          invited to the first SabreDAO exclusive meetups held in New York City.
+          Your SabreDAO will be the access pass into these events where you will
+          network with the accomplished entrepreneurs, investors, influencers.
+          Not-for-sale Sabre Merchandise will be raffled away along with 1 of 1
+          NFT and many more giveaways. Drinks on us, it is time to party in
+          champagne showers.
         actions: []
         image: /images/50.png
         image_alt: Feature 2 placeholder image
