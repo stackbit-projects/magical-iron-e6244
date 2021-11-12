@@ -4,9 +4,13 @@ sections:
   - type: hero_section
     title: WELCOME TO SABREDAO
     subtitle: Optional hero section subtitle
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >+
+      SabreDao is a unique NFT collection of 10,000 Sabre Tigers generated from
+      over 200+ hand drawn traits. The team and artists have worked on this
+      project for over 2 months now, focusing on the development, quality of art
+      and giving you the best marketing.
+
+
     actions:
       - label: MINT NOW
         url: /features
@@ -18,83 +22,268 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: none
+  - section_id: congratulations
+    title: CONGRATULATIONS
+    content: >
+      You found the SabreDAO, an ultra-exclusive club with unparalleled utility
+      and community. 
+
+
+      SabreDAO is the premier of fractional DAO, 40% of initial mint revenue
+      will be used to purchase Blue-Chip NFTs CryptoPunk and more. 10% of
+      initial mint revenue will be used for marketing. 50% of royalities from
+      secondary sales will return to the DAO community wallet.
+
+
+      Snag a SabreTiger and enter the metaverse of cryptomillionaires. Being a
+      member of the SabreDAO allows you to gain access to parties, meetups,
+      networking sessions with accomplished entreprenuers and celebrities.
+      Besides red-carpet events in New York City, London and Singapore, SabreDAO
+      members are privileged to participate in exclusive raffles and giveaway
+      events such as a limited not-for-sale $ABRE Merchandise, Tesla Model 3 and
+      other giveaways.
+    actions: []
+    actions_position: bottom
+    actions_width: fourty
+    align: center
+    padding_top: none
+    padding_bottom: small
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: cta_section
   - type: features_section
     title: ROADMAP
     features:
-      - title: The Big Title For the Feature
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+      - title: 25% Tesla Giveaway & Airdrop
+        content: >
+          A little gift from the team: Tesla Model 3 giveaway. The first 2500
+          lucky SabreDAO holders will be airdropped x1 SABRETOOTH which allows
+          you to enter a raffle for the Tesla Model 3 giveaway. Fuse SabreTiger
+          with SABRETOOTH to generate 1000 $ABRE instantly. Being the first few
+          $ABRE holders, you will be the first few individual owners of the
+          fractional shares, you will be able earn higher percentage of the
+          liquidity pool rewards.
+        actions: []
         image: /images/25.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-      - title: The Big Title For the Feature
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+      - title: |-
+          50% - New York, New
+          York
+        content: >
+          It is time to up the ante. The first 50% of SabreDAO holder will be
+          invited to the first SabreDAO exclusive meetups held in New York City.
+          Your SabreDAO will be the access pass into these events where you will
+          network with the accomplished entrepreneurs, investors, influencers.
+          Not-for-sale Sabre Merchandise will be raffled away along with 1 of 1
+          NFT and many more giveaways. Drinks on us, it is time to party in
+          champagne showers.
+        actions: []
         image: /images/50.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-      - title: The Big Title For the Feature
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+      - title: 75% - Around the World
+        content: >
+          SabreTigers belong to the billboards of the world. To celebrate this
+          milestone, we will be launching the biggest marketing campaign around
+          the world. Imagine your NFT being shown in the middle of time square,
+          the whole world will know you are a proud owner of a premier NFT
+          project. Everyone will be watching.
+        actions: []
         image: /images/75.png
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+      - title: |-
+          100% - Welcome
+          Cryptopunk
+        content: >
+          Once mint is fully sold out, SabreDAO will acquire its first
+          cryptopunk. Staking and yield farming will begin. More raffles will be
+          coming your way. More information on our official discord and social
+          media pages
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Join the SabreDAO Metaverse Club where $ABRE will be the currency to
+          purchase
         actions: []
         image_alt: lorem-ipsum
-        video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        media_position: top
-        media_width: fifty
+        media_position: left
+        media_width: thirty-three
         align: left
         image: /images/100.png
     feature_padding_vert: large
+    align: center
+    background_color: none
+    has_border: true
+  - type: grid_section
+    title: $SABRE TOKEN
+    grid_items:
+      - title: UTILITY 1
+        title_align: left
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+          fringilla, fringilla.
+        content_align: left
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+        actions_align: left
+        image: images/classic/icon-1.svg
+        image_alt: Section item 1 icon
+        image_position: top
+        image_align: left
+        image_has_padding: true
+      - title: UTILITY 2
+        title_align: left
+        content: >-
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
+        content_align: left
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+        actions_align: left
+        image: images/classic/icon-2.svg
+        image_alt: Section item 2 icon
+        image_position: top
+        image_align: left
+        image_has_padding: true
+      - title: UTILITY 3
+        title_align: left
+        content: >-
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
+        content_align: left
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: link
+            has_icon: true
+            icon: arrow-right
+            icon_position: center
+        actions_align: left
+        image: images/classic/icon-3.svg
+        image_alt: Section item 3 icon
+        image_position: top
+        image_align: left
+        image_has_padding: true
+    grid_cols: three
+    grid_gap_horiz: medium
+    grid_gap_vert: small
+    enable_cards: true
+    align: center
+    background_color: none
+    has_border: true
+  - type: grid_section
+    title: THE SABREDAO TEAM
+    actions: []
+    grid_items:
+      - title: FOUNDER
+        subtitle: Co-Founder & CEO
+        title_align: center
+        image: /images/base character tiger.png
+        image_position: top
+      - title: CO-FOUNDER/DEV
+        subtitle: Software Engineer
+        title_align: center
+        image: /images/base character tiger.png
+        image_position: top
+      - title: ART DIRECTOR
+        subtitle: Developer Advocate
+        title_align: center
+        image: /images/base character tiger.png
+        image_position: top
+      - title: MARKETING HEAD
+        subtitle: Operations Manager
+        title_align: center
+        image: /images/base character tiger.png
+        image_position: top
+    grid_cols: four
+    align: center
+    background_color: none
+    has_border: true
+  - type: grid_section
+    title: FREQUENTLY ASKED QUESTIONS
+    grid_items:
+      - content: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus
+        image_alt: Hanson Deck
+        image_position: left
+        image_width: twenty-five
+        title: What is SabreDao?
+      - content: >+
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus
+
+        image_alt: Miles Tone
+        image_position: left
+        image_width: twenty-five
+        title: When is the release date?
+      - content: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus.
+        image_alt: Eleanor Carr
+        image_position: left
+        image_width: twenty-five
+        title: Where can I buy a Sabre Tiger?
+      - content: >
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus.
+        image_alt: Gordon Norman
+        image_position: left
+        image_width: twenty-five
+        title: What makes us different?
+      - title: Who is the team?
+        title_align: left
+        content: >
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+      - title: Why should we mint it?
+        title_align: left
+        content: >
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+    grid_cols: two
+    grid_gap_horiz: medium
+    grid_gap_vert: large
     align: center
     background_color: secondary
   - type: grid_section
@@ -141,125 +330,6 @@ sections:
         media_width: thirty-three
     feature_padding_vert: small
     background_color: primary
-  - type: grid_section
-    title: Cards Grid Section
-    subtitle: Grid Section Example
-    grid_items:
-      - title: Section Item 1
-        title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/classic/icon-1.svg
-        image_alt: Section item 1 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - title: Section Item 2
-        title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/classic/icon-2.svg
-        image_alt: Section item 2 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-      - title: Section Item 3
-        title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
-        content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/classic/icon-3.svg
-        image_alt: Section item 3 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
-    grid_cols: three
-    grid_gap_horiz: medium
-    grid_gap_vert: small
-    enable_cards: true
-    align: center
-    background_color: none
-  - type: grid_section
-    title: Reviews Section
-    subtitle: Grid Section Example
-    grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Hanson Deck,** *App Developer, Studio*
-        image: images/hanson-deck.png
-        image_alt: Hanson Deck
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.png
-        image_alt: Miles Tone
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.png
-        image_alt: Eleanor Carr
-        image_position: left
-        image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Gordon Norman,** *Web Designer, Studio*
-        image: images/gordon-norman.png
-        image_alt: Gordon Norman
-        image_position: left
-        image_width: twenty-five
-    grid_cols: two
-    grid_gap_horiz: medium
-    grid_gap_vert: large
-    align: center
-    background_color: secondary
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: >-
@@ -276,58 +346,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - type: grid_section
-    title: Team Section
-    subtitle: Grid Section Example
-    actions:
-      - label: Join the team
-        url: /style-guide
-        style: primary
-    grid_items:
-      - title: Gustav Purpleson
-        subtitle: Co-Founder & CEO
-        title_align: center
-        image: images/gustav-purpleson.jpg
-        image_position: top
-      - title: Dianne Ameter
-        subtitle: Software Engineer
-        title_align: center
-        image: images/dianne-ameter.jpg
-        image_position: top
-      - title: Hugh Saturation
-        subtitle: Developer Advocate
-        title_align: center
-        image: images/hugh-saturation.jpg
-        image_position: top
-      - title: Hilary Ouse
-        subtitle: Operations Manager
-        title_align: center
-        image: images/hilary-ouse.jpg
-        image_position: top
-    grid_cols: four
-    align: center
-    background_color: secondary
-  - type: blog_feed_section
-    title: What's New
-    subtitle: Blog Feed Section Example
-    actions:
-      - label: View All
-        url: /blog
-        style: primary
-    blog_feed_cols: three
-    enable_cards: true
-    show_recent: true
-    recent_count: 3
-    show_image: true
-    show_date: true
-    show_categories: true
-    show_author: true
-    show_excerpt: false
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: >-

@@ -56,39 +56,44 @@
         "logo": "images/classic/logo.svg",
         "logo_alt": "DIY logo",
         "has_primary_nav": true,
-        "primary_nav_title": "Company",
+        "primary_nav_title": "Quick Links",
         "primary_nav_links": [
             {
-                "label": "About",
+                "label": "Open Sea",
                 "url": "/about",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
+                "label": "Twitter",
                 "url": "/style-guide",
                 "style": "link"
+            },
+            {
+                "label": "Discord",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
             }
         ],
         "has_secondary_nav": true,
-        "secondary_nav_title": "Blog",
+        "secondary_nav_title": "Project",
         "secondary_nav_links": [
             {
-                "label": "News",
+                "label": "Whitepaper",
                 "url": "/blog/category/news",
                 "style": "link"
             },
             {
-                "label": "General",
+                "label": "Contact Us",
                 "url": "/blog/category/general",
-                "style": "link"
-            },
-            {
-                "label": "Tutorials",
-                "url": "/blog/category/tutorials",
                 "style": "link"
             }
         ],
-        "has_tertiary_nav": true,
+        "has_tertiary_nav": false,
         "tertiary_nav_title": "Legal",
         "tertiary_nav_links": [
             {
