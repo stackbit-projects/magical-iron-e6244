@@ -200,7 +200,7 @@ sections:
         url: /style-guide
         style: primary
     grid_items:
-      - title: Gustav Purpleson
+      - title: TEAM
         subtitle: Co-Founder & CEO
         title_align: center
         image: /images/base character tiger.png
