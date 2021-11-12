@@ -270,7 +270,6 @@ sections:
         image_width: twenty-five
         title: What makes us different?
       - title: Who is the team?
-        subtitle: lorem-ipsum
         title_align: left
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
