@@ -1,6 +1,5 @@
 import React from 'react';
 import _ from 'lodash';
-import { motion } from 'framer-motion';
 
 
 import components, { Layout } from '../components/index';
@@ -15,10 +14,7 @@ export default class Advanced extends React.Component {
         const sections = _.get(page, 'sections');
         const pageUrl = getPageUrl(page);
 
-       
         return (
-            
-            
             <Layout page={page} config={config}>
                 {_.map(sections, (section, index) => {
                     const sectionType = _.get(section, 'type');
