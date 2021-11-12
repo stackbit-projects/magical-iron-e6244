@@ -218,7 +218,7 @@ sections:
       - title: MARKETING HEAD
         subtitle: Operations Manager
         title_align: center
-        image: images/hilary-ouse.jpg
+        image: /images/base character tiger.png
         image_position: top
     grid_cols: four
     align: center
