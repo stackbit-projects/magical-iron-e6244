@@ -29,6 +29,7 @@ export default class Advanced extends React.Component {
 
                 return () => ids.forEach((id) => clearTimeout(id));
             }, [setCitation]);
+            
             <Layout page={page} config={config}>
                 {_.map(sections, (section, index) => {
                     const sectionType = _.get(section, 'type');
