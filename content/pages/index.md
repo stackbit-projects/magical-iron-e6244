@@ -203,7 +203,7 @@ sections:
       - title: Gustav Purpleson
         subtitle: Co-Founder & CEO
         title_align: center
-        image: images/gustav-purpleson.jpg
+        image: /images/base character tiger.png
         image_position: top
       - title: Dianne Ameter
         subtitle: Software Engineer
