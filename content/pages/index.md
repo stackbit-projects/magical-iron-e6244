@@ -265,12 +265,9 @@ sections:
         image_position: left
         image_width: twenty-five
         title: Where can I buy a Sabre Tiger?
-      - content: >-
+      - content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Gordon Norman,** *Web Designer, Studio*
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
