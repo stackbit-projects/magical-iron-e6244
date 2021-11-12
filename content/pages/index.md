@@ -96,7 +96,7 @@ sections:
         image: /images/100.png
     feature_padding_vert: large
     align: center
-    background_color: secondary
+    background_color: none
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
