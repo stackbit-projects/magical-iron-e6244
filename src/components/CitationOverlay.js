@@ -4,7 +4,7 @@ import React, { FC } from "react";
 
 import { Container } from "../Container";
 import { NinjaIcon } from "./libs/NinjaIcon";
-import { Props } from "./props";
+// import { Props } from "./props";
 
 const textVariants = {
   initial: {
