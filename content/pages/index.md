@@ -59,7 +59,7 @@ sections:
   - type: features_section
     title: ROADMAP
     features:
-      - title: The Big Title For the Feature
+      - title: 25% Tesla Giveaway & Airdrop
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
