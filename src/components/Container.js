@@ -1,8 +1,6 @@
 import clsx from "clsx";
 import React  from "react";
 
-import { Props } from "./props";
-
 export default class Container extends React.Component {
      render() {
         const className = _.get(this.props, 'className');
