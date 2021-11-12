@@ -43,8 +43,6 @@ render() {
         animate={citation ? "initial" : "invisible"}
         >
         <div className={clsx("px-4 mx-auto max-w-screen-md", className)}>
-        {children}
-        </div>
             <motion.div
             variants={textVariants}
             initial="initial"
