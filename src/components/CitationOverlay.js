@@ -3,7 +3,7 @@ import { useTranslation } from "next-i18next";
 import React, { FC } from "react";
 
 import { Container } from "../Container";
-import { NinjaIcon } from "./libs/NinjaIcon";
+// import { NinjaIcon } from "./libs/NinjaIcon";
 // import { Props } from "./props";
 
 const textVariants = {
