@@ -77,7 +77,7 @@ render() {
             >
             {t("citation.author")}
             </motion.p>
-        </Container>
+        </div>
         </motion.div>
     );
     }
