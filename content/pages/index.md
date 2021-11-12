@@ -238,7 +238,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: Reviews Section
+    title: FREQUENTLY ASKED QUESTIONS
     grid_items:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
