@@ -60,10 +60,14 @@ sections:
     title: ROADMAP
     features:
       - title: 25% Tesla Giveaway & Airdrop
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          A little gift from the team: Tesla Model 3 giveaway. The first 2500
+          lucky SabreDAO holders will be airdropped x1 SABRETOOTH which allows
+          you to enter a raffle for the Tesla Model 3 giveaway. Fuse SabreTiger
+          with SABRETOOTH to generate 1000 $ABRE instantly. Being the first few
+          $ABRE holders, you will be the first few individual owners of the
+          fractional shares, you will be able earn higher percentage of the
+          liquidity pool rewards.
         actions: []
         image: /images/25.png
         image_alt: Feature 1 placeholder image
