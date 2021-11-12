@@ -24,7 +24,7 @@ sections:
     padding_bottom: large
     background_color: none
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: CONGRATULATIONS
     content: >-
       ## Lorem ipsum
 
