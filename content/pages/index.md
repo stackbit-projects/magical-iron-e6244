@@ -293,7 +293,7 @@ sections:
       fringilla, fringilla.
     actions:
       - label: MINT SABRETIGER
-        url: /pricing
+        url: /mint
         style: primary
     actions_position: bottom
     align: center
