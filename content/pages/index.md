@@ -255,12 +255,9 @@ sections:
         image_position: left
         image_width: twenty-five
         title: When is the release date?
-      - content: >-
+      - content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Eleanor Carr,** *CTO, Studio*
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
