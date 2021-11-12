@@ -223,6 +223,7 @@ sections:
     grid_cols: four
     align: center
     background_color: none
+    has_border: true
   - type: grid_section
     title: FREQUENTLY ASKED QUESTIONS
     grid_items:
