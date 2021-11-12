@@ -99,7 +99,6 @@ sections:
     background_color: none
   - type: grid_section
     title: $SABRE TOKEN
-    subtitle: Grid Section Example
     grid_items:
       - title: Section Item 1
         title_align: left
