@@ -105,7 +105,7 @@
             },
             {
                 "label": "Terms and Conditions",
-                "url": "#",
+                "url": "/terms-conditions",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
