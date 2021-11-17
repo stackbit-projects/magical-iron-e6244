@@ -1,5 +1,5 @@
 ---
-title: SabreDao
+title: Tipsy Tiger Club
 sections:
   - type: hero_section
     title: WELCOME TO SABREDAO
