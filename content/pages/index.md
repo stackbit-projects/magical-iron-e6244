@@ -193,6 +193,7 @@ sections:
     align: center
     background_color: none
     has_border: true
+    section_id: tipsy
   - type: grid_section
     title: THE SABREDAO TEAM
     actions: []
