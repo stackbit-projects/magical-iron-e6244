@@ -222,6 +222,7 @@ sections:
     align: center
     background_color: none
     has_border: true
+    section_id: team
   - type: grid_section
     title: FREQUENTLY ASKED QUESTIONS
     grid_items:
