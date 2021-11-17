@@ -288,6 +288,7 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: secondary
+    section_id: faq
   - type: cta_section
     title: JOIN THE EXCLUSIVE SABREDAO CLUB NOW
     content: >-
