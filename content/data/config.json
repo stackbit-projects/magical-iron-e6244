@@ -14,7 +14,7 @@
         "primary_nav_links": [
             {
                 "label": "ROADMAP",
-                "url": "/#features",
+                "url": "/#roadmap",
                 "style": "link"
             },
             {
