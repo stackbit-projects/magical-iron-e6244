@@ -2,7 +2,7 @@
 title: Tipsy Tiger Club
 sections:
   - type: hero_section
-    title: WELCOME TO SABREDAO
+    title: WELCOME TO TIPSY TIGER CLUB
     content: >
       TipsyTiger is a unique NFT collection of 10,000 Sabre Tigers generated
       from over 200+ hand drawn traits. The team and artists have worked on this
