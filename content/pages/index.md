@@ -199,7 +199,7 @@ sections:
       - title: FOUNDER
         subtitle: Co-Founder & CEO
         title_align: center
-        image: /images/base character tiger.png
+        image: /images/diamond example.jpg
         image_position: top
       - title: CO-FOUNDER/DEV
         subtitle: Software Engineer
