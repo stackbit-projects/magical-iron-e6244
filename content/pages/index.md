@@ -201,6 +201,7 @@ sections:
         title_align: center
         image: /images/diamond example.jpg
         image_position: top
+        content_align: center
       - title: CO-FOUNDER/DEV
         subtitle: Software Engineer
         title_align: center
