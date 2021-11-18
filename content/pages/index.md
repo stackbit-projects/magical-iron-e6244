@@ -122,7 +122,7 @@ sections:
     has_border: true
     section_id: roadmap
   - type: grid_section
-    title: $SABRE TOKEN
+    title: $TIPSY TOKEN
     grid_items:
       - title: UTILITY 1
         title_align: left
