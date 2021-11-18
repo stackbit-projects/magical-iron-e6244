@@ -211,6 +211,7 @@ sections:
         title_align: center
         image: /images/goldexample3.jpg
         image_position: top
+        content_align: center
       - title: MARKETING HEAD
         subtitle: Operations Manager
         title_align: center
