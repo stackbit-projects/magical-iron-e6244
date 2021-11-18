@@ -23,13 +23,13 @@ sections:
   - section_id: congratulations
     title: CONGRATULATIONS
     content: >
-      You found the SabreDAO, an ultra-exclusive club with unparalleled utility
-      and community. 
+      You found the TIPSY TIGER CLUB, an ultra-exclusive club with unparalleled
+      utility and community.
 
 
-      SabreDAO is the premier of fractional DAO, 40% of initial mint revenue
-      will be used to purchase Blue-Chip NFTs CryptoPunk and more. 10% of
-      initial mint revenue will be used for marketing. 50% of royalities from
+      Tipsy Tiger Club is the premier of fractional DAO, 40% of initial mint
+      revenue will be used to purchase Blue-Chip NFTs CryptoPunk and more. 10%
+      of initial mint revenue will be used for marketing. 50% of royalities from
       secondary sales will return to the DAO community wallet.
 
 
