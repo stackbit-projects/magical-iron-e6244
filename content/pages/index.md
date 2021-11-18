@@ -193,7 +193,7 @@ sections:
     has_border: true
     section_id: tipsy
   - type: grid_section
-    title: THE SABREDAO TEAM
+    title: THE TIPSYTIGER TEAM
     actions: []
     grid_items:
       - title: FOUNDER
