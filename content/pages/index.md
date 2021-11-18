@@ -2,19 +2,17 @@
 title: Tipsy Tiger Club
 sections:
   - type: hero_section
-    title: WELCOME TO SABREDAO
-    content: >+
-      SabreDao is a unique NFT collection of 10,000 Sabre Tigers generated from
-      over 200+ hand drawn traits. The team and artists have worked on this
+    title: WELCOME TO TIPSY TIGER CLUB
+    content: >
+      TipsyTiger is a unique NFT collection of 10,000 Sabre Tigers generated
+      from over 200+ hand drawn traits. The team and artists have worked on this
       project for over 2 months now, focusing on the development, quality of art
       and giving you the best marketing.
-
-
     actions:
       - label: MINT NOW
         url: /features
         style: secondary
-    image: /images/ClaimApe.2e198c2d.gif
+    image: /images/ezgif-3-fb652b8795fc.gif
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
@@ -25,13 +23,13 @@ sections:
   - section_id: congratulations
     title: CONGRATULATIONS
     content: >
-      You found the SabreDAO, an ultra-exclusive club with unparalleled utility
-      and community. 
+      You found the TIPSY TIGER CLUB, an ultra-exclusive club with unparalleled
+      utility and community.
 
 
-      SabreDAO is the premier of fractional DAO, 40% of initial mint revenue
-      will be used to purchase Blue-Chip NFTs CryptoPunk and more. 10% of
-      initial mint revenue will be used for marketing. 50% of royalities from
+      Tipsy Tiger Club is the premier of fractional DAO, 40% of initial mint
+      revenue will be used to purchase Blue-Chip NFTs CryptoPunk and more. 10%
+      of initial mint revenue will be used for marketing. 50% of royalities from
       secondary sales will return to the DAO community wallet.
 
 
@@ -186,7 +184,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-    grid_cols: three
+    grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: small
     enable_cards: true
@@ -201,23 +199,25 @@ sections:
       - title: FOUNDER
         subtitle: Co-Founder & CEO
         title_align: center
-        image: /images/base character tiger.png
+        image: /images/diamond example.jpg
         image_position: top
       - title: CO-FOUNDER/DEV
         subtitle: Software Engineer
         title_align: center
-        image: /images/base character tiger.png
+        image: /images/example2.jpg
         image_position: top
       - title: ART DIRECTOR
         subtitle: Developer Advocate
         title_align: center
-        image: /images/base character tiger.png
+        image: /images/goldexample3.jpg
         image_position: top
+        content_align: left
       - title: MARKETING HEAD
         subtitle: Operations Manager
         title_align: center
-        image: /images/base character tiger.png
+        image: /images/diamond example1.jpg
         image_position: top
+        image_align: center
     grid_cols: four
     align: center
     background_color: none
