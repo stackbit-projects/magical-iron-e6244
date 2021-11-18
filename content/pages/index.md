@@ -11,7 +11,7 @@ sections:
     actions:
       - label: MINT NOW
         url: /features
-        style: secondary
+        style: primary
     image: /images/ezgif-3-fb652b8795fc.gif
     image_alt: Hero section placeholder image
     media_position: left
