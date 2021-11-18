@@ -14,7 +14,7 @@ sections:
       - label: MINT NOW
         url: /features
         style: secondary
-    image: /images/ClaimApe.2e198c2d.gif
+    image: /images/ezgif-3-fb652b8795fc.gif
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
