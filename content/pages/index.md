@@ -218,7 +218,7 @@ sections:
         image: /images/diamond example1.jpg
         image_position: top
         image_align: center
-    grid_cols: four
+    grid_cols: three
     align: center
     background_color: none
     has_border: true
