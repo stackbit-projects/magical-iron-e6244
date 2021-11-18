@@ -209,7 +209,7 @@ sections:
       - title: ART DIRECTOR
         subtitle: Developer Advocate
         title_align: center
-        image: /images/base character tiger.png
+        image: /images/goldexample3.jpg
         image_position: top
       - title: MARKETING HEAD
         subtitle: Operations Manager
