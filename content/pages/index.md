@@ -204,7 +204,7 @@ sections:
       - title: CO-FOUNDER/DEV
         subtitle: Software Engineer
         title_align: center
-        image: /images/base character tiger.png
+        image: /images/example2.jpg
         image_position: top
       - title: ART DIRECTOR
         subtitle: Developer Advocate
