@@ -308,7 +308,7 @@ sections:
     has_border: true
 seo:
   title: Tipsy Tiger Club
-  description: The preview of the DIY theme
+  description: An Ultra Exclusive NFT Club
   extra:
     - name: 'og:type'
       value: website
