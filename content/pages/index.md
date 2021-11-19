@@ -328,7 +328,7 @@ seo:
     - name: 'twitter:title'
       value: Tipsy Tiger Club
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: An Ultra Exclusive NFT Club
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
