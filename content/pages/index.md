@@ -307,7 +307,7 @@ sections:
     background_color: none
     has_border: true
 seo:
-  title: Stackbit DIY Theme
+  title: Tipsy Tiger Club
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
