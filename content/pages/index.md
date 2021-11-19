@@ -320,7 +320,7 @@ seo:
       value: An Ultra Exclusive NFT Club
       keyName: property
     - name: 'og:image'
-      value: images/diy-preview.png
+      value: /images/diamond example1-9512edb5.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
