@@ -7,7 +7,7 @@
     "mode": "dark",
     "base_font": "sans-serif",
     "header": {
-        "title": "SabreDao | An Ultra Exclusive NFT CLlub",
+        "title": "Tipsy Tiger Club",
         "logo": "images/classic/logo.svg",
         "logo_alt": "DIY logo",
         "has_primary_nav": true,
@@ -177,5 +177,5 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://magical-iron-e6244.netlify.app"
+    "domain": "https://www.tipsytigerclub.com"
 }

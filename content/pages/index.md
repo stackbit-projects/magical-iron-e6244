@@ -307,30 +307,30 @@ sections:
     background_color: none
     has_border: true
 seo:
-  title: Stackbit DIY Theme
-  description: The preview of the DIY theme
+  title: Tipsy Tiger Club
+  description: An Ultra Exclusive NFT Club
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit DIY Theme
+      value: Tipsy Tiger Club
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: An Ultra Exclusive NFT Club
       keyName: property
     - name: 'og:image'
-      value: images/diy-preview.png
+      value: /images/diamond example1-9512edb5.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit DIY Theme
+      value: Tipsy Tiger Club
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: An Ultra Exclusive NFT Club
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: /images/diamond example1-f9a36a36.jpg
       relativeUrl: true
 layout: advanced
 ---
