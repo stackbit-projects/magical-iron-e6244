@@ -177,5 +177,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://www.tipsytigerclub.com"
+    "domain": "https://www.tipsytigerclub.com",
+    "favicon": "/images/drunk1.ico"
 }
