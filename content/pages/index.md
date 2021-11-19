@@ -330,7 +330,7 @@ seo:
     - name: 'twitter:description'
       value: An Ultra Exclusive NFT Club
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: /images/diamond example1-f9a36a36.jpg
       relativeUrl: true
 layout: advanced
 ---
