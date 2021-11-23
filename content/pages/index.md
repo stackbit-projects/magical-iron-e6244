@@ -191,7 +191,7 @@ sections:
     align: center
     background_color: none
     has_border: true
-    section_id: tipsy
+    section_id: utility
   - type: grid_section
     title: THE TIPSYTIGER TEAM
     actions: []
