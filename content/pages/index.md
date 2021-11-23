@@ -51,6 +51,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    background_image: /images/2021-11-23 20.35.40-b71ecf59.jpg
   - section_id: congratulations
     title: WELCOME TO THE TIPSYTIGER CLUB
     content: >
