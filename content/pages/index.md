@@ -12,7 +12,7 @@ sections:
       - label: MINT NOW
         url: /features
         style: primary
-    image: /images/ezgif-3-fb652b8795fc.gif
+    image: /images/2021-11-23 20.35.40.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
