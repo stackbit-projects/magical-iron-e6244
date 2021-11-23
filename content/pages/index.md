@@ -6,7 +6,7 @@ sections:
       - label: MINT NOW
         url: /features
         style: primary
-        icon_position: center
+        icon_position: right
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
