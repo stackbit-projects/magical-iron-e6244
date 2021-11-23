@@ -20,6 +20,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
+    background_image: /images/2021-11-23 20.35.40-d0c1b3a5.jpg
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
