@@ -46,6 +46,7 @@ export default class HeroSection extends React.Component {
                 })}
             >
                 {backgroundImage && <SectionBackground section={section} />}
+                
                 <div
                     className={classNames('container', {
                         'container--medium': !isHorizontal
@@ -82,12 +83,13 @@ export default class HeroSection extends React.Component {
                                     'text-center': alignX === 'center',
                                     'text-right': alignX === 'right'
                                 })}
-                            >
+                            >   
+                                <span>&nbsp;&nbsp;</span>
+
                                 {title && <h1 className="hero__title">{title}</h1>}
-                                {' '}
+
                                 {subtitle && <p className="hero__subtitle">{subtitle}</p>}
-                                {' '}
-                                {' '}
+
                                 {content && <div className="hero__copy">{markdownify(content)}</div>}
                                 {!_.isEmpty(actions) && (
                                     <div
@@ -97,10 +99,16 @@ export default class HeroSection extends React.Component {
                                         })}
                                     >
                                         <SectionActions actions={actions} />
+                                        <span>&nbsp;&nbsp;</span>
+
                                     </div>
+                                    
                                 )}
+                                <span>&nbsp;&nbsp;</span>
+
                             </div>
                         )}
+                        <span>&nbsp;&nbsp;</span>
                     </div>
                 </div>
             </section>
