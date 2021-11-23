@@ -15,7 +15,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
   - section_id: congratulations
-    title: WELCOME TO THE TIPSYTIGER CLUB
     content: >
       The year is 2046. An electric jolt from your watch shocks you awake. You
       open your eyes to find yourself in an unfamiliar environment. Random
