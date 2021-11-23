@@ -21,7 +21,7 @@ sections:
     padding_bottom: large
     background_color: none
   - section_id: congratulations
-    title: An NFT Club From The Future
+    title: WELCOME TO THE TIPSYTIGER CLUB
     content: >
       The year is 2046. An electric jolt from your watch shocks you awake. You
       open your eyes to find yourself in an unfamiliar environment. Random
