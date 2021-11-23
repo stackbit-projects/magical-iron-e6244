@@ -21,7 +21,7 @@ sections:
     padding_bottom: large
     background_color: none
   - section_id: congratulations
-    title: CONGRATULATIONS
+    title: An NFT Club From The Future
     content: >
       You found the TIPSY TIGER CLUB, an ultra-exclusive club with unparalleled
       utility and community.
