@@ -2,7 +2,15 @@
 title: Tipsy Tiger Club
 sections:
   - type: hero_section
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     image_alt: Hero section placeholder image
     media_position: left
     media_width: sixty
