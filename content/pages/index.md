@@ -308,7 +308,7 @@ sections:
     has_border: true
 seo:
   title: Tipsy Tiger Club
-  description: An Ultra Exclusive NFT Club
+  description: A NFT Club From The Future
   extra:
     - name: 'og:type'
       value: website
