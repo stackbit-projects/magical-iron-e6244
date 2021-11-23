@@ -317,7 +317,7 @@ seo:
       value: Tipsy Tiger Club
       keyName: property
     - name: 'og:description'
-      value: An Ultra Exclusive NFT Club
+      value: A NFT Club From The Future
       keyName: property
     - name: 'og:image'
       value: /images/diamond example1-9512edb5.jpg
