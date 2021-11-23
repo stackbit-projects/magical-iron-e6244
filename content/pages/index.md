@@ -33,7 +33,7 @@ sections:
 
 
       The annual TipsyTiger party is the one party you organise your entire
-      year’s schedule around so as to not miss. Every year, you fly to a
+      year’s schedule around so as to not miss it. Every year, you fly to a
       different city to meet your TipsyTiger Club friends for this single party.
       The most extravagant and luxurious parties you’ve ever attended were held
       by the TipsyTiger Club. You chanced upon this club years ago. United by a
