@@ -22,7 +22,7 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    title: WELCOME TO THE TIPSYTIGER CLUB
+    title: 'WELCOME TO THE TIPSYTIGER CLUB  &nbsp '
     subtitle: An NFT Club From The Future
   - section_id: congratulations
     content: >
