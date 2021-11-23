@@ -51,10 +51,12 @@ sections:
 
 
       The metaverse is still in the works. Metamask doesn’t allow you to view
-      your NFTs. TipsyTiger Club is not yet formed. Oh no, you think. I’ll have
-      to bring the band together for all the crazy parties we’ll have. You
-      remember joining as a member the first time. It’ll be fun to do this
-      again. See you all in 2046.
+      your NFTs. TipsyTiger Club is not yet formed. 
+
+
+      Oh no, you think. I’ll have to bring the band together for all the crazy
+      parties we’ll have. You remember joining as a member the first time. It’ll
+      be fun to do this again. See you all in 2046.
     actions: []
     actions_position: bottom
     actions_width: fourty
