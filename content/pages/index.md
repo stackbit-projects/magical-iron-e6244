@@ -14,41 +14,6 @@ sections:
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
-    content: |2+
-         
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   - section_id: congratulations
     title: WELCOME TO THE TIPSYTIGER CLUB
     content: >
