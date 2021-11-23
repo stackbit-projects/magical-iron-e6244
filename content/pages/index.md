@@ -328,7 +328,7 @@ seo:
     - name: 'twitter:title'
       value: Tipsy Tiger Club
     - name: 'twitter:description'
-      value: An Ultra Exclusive NFT Club
+      value: An NFT Club From The Future
     - name: 'twitter:image'
       value: /images/diamond example1-f9a36a36.jpg
       relativeUrl: true
