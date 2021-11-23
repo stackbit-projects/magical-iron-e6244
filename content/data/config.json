@@ -43,7 +43,7 @@
         "secondary_nav_links": [
             {
                 "label": "ROADMAP",
-                "url": "/contact",
+                "url": "/#roadmap",
                 "style": "link"
             },
             {
