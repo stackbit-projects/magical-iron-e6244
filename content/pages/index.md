@@ -3,7 +3,7 @@ title: Tipsy Tiger Club
 sections:
   - type: hero_section
     actions:
-      - label: lorem-ipsum
+      - label: MINT IS NOT LIVE
         url: '#'
         style: link
         has_icon: false
