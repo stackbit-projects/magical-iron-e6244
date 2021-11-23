@@ -47,11 +47,6 @@
                 "style": "link"
             },
             {
-                "label": "MINT NOW",
-                "url": "https://mint.tipsytigerclub.com",
-                "style": "primary"
-            },
-            {
                 "label": "lorem-ipsum",
                 "url": "#",
                 "style": "link",
@@ -60,6 +55,11 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "MINT NOW",
+                "url": "https://mint.tipsytigerclub.com",
+                "style": "primary"
             }
         ]
     },
