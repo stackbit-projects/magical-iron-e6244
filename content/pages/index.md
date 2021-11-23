@@ -23,23 +23,38 @@ sections:
   - section_id: congratulations
     title: An NFT Club From The Future
     content: >
-      You found the TIPSY TIGER CLUB, an ultra-exclusive club with unparalleled
-      utility and community.
+      The year is 2046. An electric jolt from your watch shocks you awake. You
+      open your eyes to find yourself in an unfamiliar environment. Random
+      scenes from the night before flash through your mind. “GM buddy last night
+      was hella lit!” a chirpy voice greets you. Ah, you remember now. The
+      annual TipsyTiger Party you flew halfway around the globe to attend. “It
+      was crazy but I’d live it again anytime.” You weakly reply as you fall
+      back asleep.
 
 
-      Tipsy Tiger Club is the premier of fractional DAO, 40% of initial mint
-      revenue will be used to purchase Blue-Chip NFTs CryptoPunk and more. 10%
-      of initial mint revenue will be used for marketing. 50% of royalities from
-      secondary sales will return to the DAO community wallet.
+      The annual TipsyTiger party is the one party you organise your entire
+      year’s schedule around so as to not miss. Every year, you fly to a
+      different city to meet your TipsyTiger Club friends for this single party.
+      The most extravagant and luxurious parties you’ve ever attended were held
+      by the TipsyTiger Club. You chanced upon this club years ago. United by a
+      passion for partying, TipsyTiger Club is home to successful entrepreneurs
+      and early believers of the metaverse from around the world.
 
 
-      Snag a SabreTiger and enter the metaverse of cryptomillionaires. Being a
-      member of the SabreDAO allows you to gain access to parties, meetups,
-      networking sessions with accomplished entreprenuers and celebrities.
-      Besides red-carpet events in New York City, London and Singapore, SabreDAO
-      members are privileged to participate in exclusive raffles and giveaway
-      events such as a limited not-for-sale $ABRE Merchandise, Tesla Model 3 and
-      other giveaways.
+      It feels like centuries have passed when you wake up again. You reach out
+      for your iPhone 38, intending to head straight into the Metaverse app to
+      collect your daily ETH reward for staking NFTs and water the grass in all
+      your virtual houses. You open your eyes to see your iPhone1 3. Wait for
+      what? Is there a glitch? You clench your eyes shut tightly to gain
+      clarity. Get it together! With all the courage you peel open your eyes.
+      It’s 2021 again.
+
+
+      The metaverse is still in the works. Metamask doesn’t allow you to view
+      your NFTs. TipsyTiger Club is not yet formed. Oh no, you think. I’ll have
+      to bring the band together for all the crazy parties we’ll have. You
+      remember joining as a member the first time. It’ll be fun to do this
+      again. See you all in 2046.
     actions: []
     actions_position: bottom
     actions_width: fourty
