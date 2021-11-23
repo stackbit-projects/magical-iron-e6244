@@ -317,7 +317,7 @@ sections:
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
       fringilla, fringilla.
     actions:
-      - label: MINT SABRETIGER
+      - label: PUBLIC MINT COMING SOON
         url: /mint
         style: primary
     actions_position: bottom
