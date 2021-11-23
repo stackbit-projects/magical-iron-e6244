@@ -2,11 +2,7 @@
 title: Tipsy Tiger Club
 sections:
   - type: hero_section
-    actions:
-      - label: MINT NOW
-        url: /features
-        style: primary
-        icon_position: center
+    actions: []
     image_alt: Hero section placeholder image
     media_position: left
     media_width: sixty
