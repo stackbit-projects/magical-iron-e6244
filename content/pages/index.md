@@ -2,7 +2,6 @@
 title: Tipsy Tiger Club
 sections:
   - type: hero_section
-    title: WELCOME TO TIPSY TIGER CLUB
     actions:
       - label: MINT NOW
         url: /features
