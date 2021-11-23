@@ -3,11 +3,6 @@ title: Tipsy Tiger Club
 sections:
   - type: hero_section
     title: WELCOME TO TIPSY TIGER CLUB
-    content: >
-      TipsyTiger is a unique NFT collection of 10,000 Sabre Tigers generated
-      from over 200+ hand drawn traits. The team and artists have worked on this
-      project for over 2 months now, focusing on the development, quality of art
-      and giving you the best marketing.
     actions:
       - label: MINT NOW
         url: /features
