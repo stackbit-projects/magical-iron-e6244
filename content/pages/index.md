@@ -168,10 +168,12 @@ sections:
         image_has_padding: true
       - title: TipsyTiger Club VIP Pass
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Get on the guestlist to our parties across the globe in major cities
+          like Los Angeles, Singapore, London, Miami, Hong Kong. Access stealth
+          events and be the first to taste limited-edition flavors. Celebrate
+          and party with us in style. Time to rave with like-minded successful
+          individuals.
         content_align: left
         actions:
           - label: Learn More
