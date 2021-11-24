@@ -277,7 +277,6 @@ sections:
         image_align: left
         image_has_padding: false
       - title: 'Who is the team behind TipsyTiger Club? '
-        subtitle: \
         title_align: left
         content: >-
           ## Lorem ipsum
