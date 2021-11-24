@@ -100,14 +100,7 @@ sections:
         media_position: right
         media_width: thirty-three
       - title: 50% - Around the World
-        content: >
-          It is time to up the ante. The first 50% of SabreDAO holder will be
-          invited to the first SabreDAO exclusive meetups held in New York City.
-          Your SabreDAO will be the access pass into these events where you will
-          network with the accomplished entrepreneurs, investors, influencers.
-          Not-for-sale Sabre Merchandise will be raffled away along with 1 of 1
-          NFT and many more giveaways. Drinks on us, it is time to party in
-          champagne showers.
+        content: "TipsyTigers is going worldwide. Our tigers belong to the billboards of the world. To celebrate this milestone, we will be launching the biggest marketing campaign around the world. Imagine your NFT being shown in the middle of Times Square, Shibuya, Piccadilly Circus. Let’s get helicopters and jets to fly our TipsyTiger banners across major cities. Everyone will be watching. Let the whole world know about your amazing TipsyTiger NFT.\_\n"
         actions: []
         image: /images/50-icon.png
         image_alt: Feature 2 placeholder image
