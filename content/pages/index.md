@@ -85,7 +85,7 @@ sections:
           sneak peeks of our brewery and a massive $100,000 giveaway.
         actions: []
         image_alt: lorem-ipsum
-        media_position: right
+        media_position: left
         media_width: thirty-three
         align: left
         image: /images/icon 0.png
