@@ -174,7 +174,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: top
-        media_width: fifty
+        media_width: thirty-three
         align: left
         image: /images/icon 0.png
     feature_padding_vert: large
