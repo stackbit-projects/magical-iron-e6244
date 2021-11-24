@@ -157,6 +157,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        image: /images/Icon 50%-74e486fa.png
     feature_padding_vert: large
     align: center
     background_color: none
