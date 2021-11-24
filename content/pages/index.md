@@ -155,7 +155,7 @@ sections:
   - type: grid_section
     title: TIPSYTIGER PERKS
     grid_items:
-      - title: UTILITY 1
+      - title: TipsyTiger Hard Seltzer
         title_align: left
         content: "Co-own a hard seltzer line and join us in building the world’s premium NFT hard seltzer. Gain access to private launch parties, vote on limited-edition flavors, earn dividends from sales.\_\n"
         content_align: left
