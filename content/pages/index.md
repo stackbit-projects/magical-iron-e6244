@@ -89,7 +89,7 @@ sections:
         image: /images/icon 25.png
         image_alt: Feature 1 placeholder image
         media_position: right
-        media_width: thirty-three
+        media_width: fourty
       - title: |-
           50% - New York, New
           York
