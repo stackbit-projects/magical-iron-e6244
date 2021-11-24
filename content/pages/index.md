@@ -76,6 +76,19 @@ sections:
   - type: features_section
     title: ROADMAP
     features:
+      - title: 0%
+        content: >
+          Join us and be a TipsyTigers VIP holder (1000 slots only). VIP members
+          mint at a discounted price, gain early access to sales, and many more.
+          When we achieve 10,000 members in our Discord server, we will drop our
+          TipsyTiger Hard Seltzer website that features our hard seltzer line,
+          sneak peeks of our brewery and a massive $100,000 giveaway.
+        actions: []
+        image_alt: lorem-ipsum
+        media_position: right
+        media_width: thirty-three
+        align: left
+        image: /images/icon 0.png
       - title: 25% Tesla Giveaway & Airdrop
         content: >
           A little gift from the team: Tesla Model 3 giveaway. The first 2500
@@ -90,19 +103,6 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: thirty-three
-      - title: 0%
-        content: >
-          Join us and be a TipsyTigers VIP holder (1000 slots only). VIP members
-          mint at a discounted price, gain early access to sales, and many more.
-          When we achieve 10,000 members in our Discord server, we will drop our
-          TipsyTiger Hard Seltzer website that features our hard seltzer line,
-          sneak peeks of our brewery and a massive $100,000 giveaway.
-        actions: []
-        image_alt: lorem-ipsum
-        media_position: right
-        media_width: thirty-three
-        align: left
-        image: /images/icon 0.png
       - title: |-
           50% - New York, New
           York
