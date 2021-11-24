@@ -157,7 +157,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-        image: /images/Icon 50%-74e486fa.png
+        image: /images/Icon 50%.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         content: >-
