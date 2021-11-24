@@ -105,7 +105,7 @@ sections:
         image: /images/Icon 50%.png
         image_alt: Feature 2 placeholder image
         media_position: left
-        media_width: fifty
+        media_width: thirty-three
       - title: 75% - Around the World
         content: >
           SabreTigers belong to the billboards of the world. To celebrate this
