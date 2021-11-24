@@ -247,7 +247,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Why should we mint it?
+      - title: When is the release date?
         title_align: left
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
