@@ -113,9 +113,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: thirty-three
-      - title: |-
-          100% - Welcome
-          Cryptopunk
+      - title: 100% - Official launch of TipsyTigers Hard Seltzer
         content: >
           Once mint is fully sold out, SabreDAO will acquire its first
           cryptopunk. Staking and yield farming will begin. More raffles will be
