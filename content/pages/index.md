@@ -99,9 +99,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: thirty-three
-      - title: |-
-          50% - New York, New
-          York
+      - title: 50% - Around the World
         content: >
           It is time to up the ante. The first 50% of SabreDAO holder will be
           invited to the first SabreDAO exclusive meetups held in New York City.
