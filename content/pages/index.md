@@ -153,7 +153,7 @@ sections:
     has_border: true
     section_id: roadmap
   - type: grid_section
-    title: $TIPSY TOKEN
+    title: TIPSYTIGER PERKS
     grid_items:
       - title: UTILITY 1
         title_align: left
