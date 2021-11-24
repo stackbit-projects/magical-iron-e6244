@@ -115,14 +115,13 @@ sections:
         media_width: thirty-three
       - title: 100% - Official launch of TipsyTigers Hard Seltzer
         content: >
-          Once mint is fully sold out, SabreDAO will acquire its first
-          cryptopunk. Staking and yield farming will begin. More raffles will be
-          coming your way. More information on our official discord and social
-          media pages
-
-
-          Join the SabreDAO Metaverse Club where $ABRE will be the currency to
-          purchase
+          Once mint is fully sold out, TipsyTiger Social Club will acquire our
+          brewery and TipsyTigers Hard Seltzer will be available WORLDWIDE. For
+          the first 6 months, TipsyTigers will travel the world to host official
+          launch parties in different key cities like London, Los Angeles,
+          Singapore, Tokyo, etc. Enjoy the amazing hard seltzer while we market
+          your NFT for the whole world to see. (where is the metaverse mentioned
+          here?) we need to tell them.
         actions: []
         image_alt: lorem-ipsum
         media_position: left
