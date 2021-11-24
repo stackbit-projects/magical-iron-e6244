@@ -157,10 +157,7 @@ sections:
     grid_items:
       - title: UTILITY 1
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: "Co-own a hard seltzer line and join us in building the world’s premium NFT hard seltzer. Gain access to private launch parties, vote on limited-edition flavors, earn dividends from sales.\_\n"
         content_align: left
         actions: []
         actions_align: left
