@@ -111,7 +111,7 @@ sections:
           NFT and many more giveaways. Drinks on us, it is time to party in
           champagne showers.
         actions: []
-        image: /images/Icon 50%-74e486fa.png
+        image: /images/50-icon.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: thirty-three
