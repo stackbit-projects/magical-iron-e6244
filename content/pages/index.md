@@ -106,7 +106,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: thirty-three
-      - title: 75% - Around the World
+      - title: '75% - New York, New York'
         content: >
           SabreTigers belong to the billboards of the world. To celebrate this
           milestone, we will be launching the biggest marketing campaign around
