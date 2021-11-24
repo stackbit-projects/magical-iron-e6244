@@ -89,7 +89,7 @@ sections:
         media_width: thirty-three
         align: left
         image: /images/icon 0.png
-      - title: 25% Tesla Giveaway & Airdrop
+      - title: 25% - TESLA MODEL 3 Giveaway
         content: >
           A little gift from the team: Tesla Model 3 giveaway. The first 2500
           lucky SabreDAO holders will be airdropped x1 SABRETOOTH which allows
