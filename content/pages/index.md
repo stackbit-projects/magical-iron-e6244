@@ -192,13 +192,7 @@ sections:
         title_align: left
         content: "TipsyTiger Club will be the pioneer for box-office music festivals and nightclubs in the metaverse. Be the first to witness our metaverse world and be a VIP in our future metaverse events.\_\n"
         content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/classic/icon-3.svg
         image_alt: Section item 3 icon
