@@ -159,7 +159,6 @@ sections:
         align: left
         image: /images/Icon 50%.png
       - title: 0%
-        subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
 
