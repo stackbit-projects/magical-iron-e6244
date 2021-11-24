@@ -76,7 +76,7 @@ sections:
   - type: features_section
     title: ROADMAP
     features:
-      - title: 0%
+      - title: 0% - Welcome to TipsyTigers Social Club
         content: >
           Join us and be a TipsyTigers VIP holder (1000 slots only). VIP members
           mint at a discounted price, gain early access to sales, and many more.
