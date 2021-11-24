@@ -86,7 +86,7 @@ sections:
           fractional shares, you will be able earn higher percentage of the
           liquidity pool rewards.
         actions: []
-        image: /images/25.png
+        image: /images/icon 25.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
