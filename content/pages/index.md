@@ -107,7 +107,7 @@ sections:
         media_position: left
         media_width: thirty-three
       - title: '75% - New York, New York'
-        content: "Exclusive by-invite-only TipsyTiger Hard Seltzer Soft Launch party. Upping the ante, we will invite the holders of the TipsyTigers to an exclusive meetup in New York City. Your TipsyTigers will be the entry ticket into this networking event. Get to know accomplished entrepreneurs, investors, influencers from our meetups and expand your network. Party to world renowned DJs and be the first to taste the flavours of our TipsyTigers Hard Seltzers. Drinks on us, it’s time to send it.\_\n"
+        content: "Exclusive by-invite-only TipsyTiger Hard Seltzer Soft Launch party. Upping the ante, we will invite the holders of the TipsyTigers to an exclusive meetup in New York City. Your TipsyTigers will be the entry ticket into this networking event. Get to know accomplished entrepreneurs, investors, influencers from our meetups and expand your network. Party to world-renowned DJs and be the first to taste the flavors of our TipsyTigers Hard Seltzers. Drinks on us, it’s time to send it.\_\n"
         actions: []
         image: /images/Icon 75.png
         image_alt: Feature 3 placeholder image
