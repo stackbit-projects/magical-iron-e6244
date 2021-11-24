@@ -190,10 +190,7 @@ sections:
         image_has_padding: true
       - title: Sandbox Metaverse
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "TipsyTiger Club will be the pioneer for box-office music festivals and nightclubs in the metaverse. Be the first to witness our metaverse world and be a VIP in our future metaverse events.\_\n"
         content_align: left
         actions:
           - label: Learn More
