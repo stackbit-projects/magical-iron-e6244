@@ -117,7 +117,7 @@ sections:
         image: /images/Icon 75.png
         image_alt: Feature 3 placeholder image
         media_position: right
-        media_width: fifty
+        media_width: thirty-three
       - title: |-
           100% - Welcome
           Cryptopunk
