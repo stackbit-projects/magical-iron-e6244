@@ -278,17 +278,12 @@ sections:
         image_has_padding: false
       - title: 'Who is the team behind TipsyTiger Club? '
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          The team developing the NFT consists of successful entrepreneurs,
+          top-tier NFT artists, and experienced community managers, mainly
+          alcoholics who are bored of what’s offered in the current market. We
+          believe in developing a project with true value. No frills and no
+          bullshit. Join our discord to interact with us.
         content_align: left
         actions: []
         actions_align: left
