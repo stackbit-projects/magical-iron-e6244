@@ -221,8 +221,12 @@ sections:
         image_width: twenty-five
         title: How are we going to launch Tipsy Tiger Hard Seltzer?
       - content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+          TipsyTiger Club will function as a DAO. As a TipsyTiger Club member,
+          you will get to be part of the creative process behind launching an
+          alcohol line. You will get to decide what flavors to launch, what
+          brands to collaborate with, which cities to host our launch parties,
+          and many more. Join our discord for the full list of perks. Your
+          brand, your voice.
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
