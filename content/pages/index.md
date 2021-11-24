@@ -114,7 +114,7 @@ sections:
           the whole world will know you are a proud owner of a premier NFT
           project. Everyone will be watching.
         actions: []
-        image: /images/75.png
+        image: /images/Icon 75.png
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
