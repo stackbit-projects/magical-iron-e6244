@@ -260,7 +260,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: lorem-ipsum
+      - title: How much will a TipsyTiger cost?
         subtitle: lorem-ipsum
         title_align: left
         content: >-
