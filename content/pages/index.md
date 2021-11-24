@@ -190,7 +190,7 @@ sections:
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
-        title: What is SabreDao?
+        title: Why create a hard seltzer?
       - content: >+
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus
