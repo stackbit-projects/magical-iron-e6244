@@ -166,7 +166,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: UTILITY 2
+      - title: TipsyTiger Club VIP pass
         title_align: left
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
