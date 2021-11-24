@@ -159,17 +159,12 @@ sections:
         align: left
         image: /images/Icon 50%.png
       - title: 0%
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Join us and be a TipsyTigers VIP holder (1000 slots only). VIP members
+          mint at a discounted price, gain early access to sales and many more.
+          When we achieve 10,000 members in our Discord server, we will drop our
+          TipsyTiger Hard Seltzer website that features our hard seltzer line,
+          sneak peeks of our brewery and a massive $100,000 giveaway.
         actions: []
         image_alt: lorem-ipsum
         media_position: right
