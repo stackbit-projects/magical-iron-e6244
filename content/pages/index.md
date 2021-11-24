@@ -295,17 +295,10 @@ sections:
         image_has_padding: false
       - title: How do I know all these are real?
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          You should know drunkards are the most honest when they are drunk,
+          well, I am drunk while typing this. And yes, co-owning a brewery with
+          a group of degens will be the biggest flip-off you can flex in 2022. 
         content_align: left
         actions: []
         actions_align: left
