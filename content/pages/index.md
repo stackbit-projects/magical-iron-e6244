@@ -308,7 +308,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: lorem-ipsum
+      - title: Why should I mint a TipsyTiger?
         subtitle: lorem-ipsum
         title_align: left
         content: >-
