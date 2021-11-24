@@ -231,7 +231,7 @@ sections:
         image_position: left
         image_width: twenty-five
         title: What is the relationship between club members and Hard Seltzer?
-      - title: Who is the team?
+      - title: How do TIpsyTiger NFT Holders benefit from TipsyTiger Hard Seltzer?
         title_align: left
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
