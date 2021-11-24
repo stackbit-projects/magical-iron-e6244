@@ -226,7 +226,9 @@ sections:
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
-        title: What makes us different?
+        title: >-
+          What is the relationship between TipsyTiger Club members and
+          TipsyTiger Hard Seltzer?
       - title: Who is the team?
         title_align: left
         content: >
