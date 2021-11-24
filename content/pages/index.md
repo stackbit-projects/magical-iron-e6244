@@ -165,7 +165,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: top
-        media_width: fifty
+        media_width: thirty-three
         align: left
         image: /images/50-icon.png
     feature_padding_vert: large
