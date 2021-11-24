@@ -25,41 +25,7 @@ sections:
     title: WELCOME TO THE TIPSYTIGER CLUB
     subtitle: An NFT Club From The Future
   - section_id: congratulations
-    content: >
-      The year is 2046. An electric jolt from your watch shocks you awake. You
-      open your eyes to find yourself in an unfamiliar environment. Random
-      scenes from the night before flash through your mind. “GM buddy last night
-      was hella lit!” a chirpy voice greets you. Ah, you remember now. The
-      annual TipsyTiger Party you flew halfway around the globe to attend. “It
-      was crazy but I’d live it again anytime.” You weakly reply as you fall
-      back asleep.
-
-
-      The annual TipsyTiger party is the one party you organise your entire
-      year’s schedule around so as to not miss it. Every year, you fly to a
-      different city to meet your TipsyTiger Club friends for this single party.
-      The most extravagant and luxurious parties you’ve ever attended were held
-      by the TipsyTiger Club. You chanced upon this club years ago. United by a
-      passion for partying, TipsyTiger Club is home to successful entrepreneurs
-      and early believers of the metaverse from around the world.
-
-
-      It feels like centuries have passed when you wake up again. You reach out
-      for your iPhone 38, intending to head straight into the Metaverse app to
-      collect your daily ETH reward for staking NFTs and water the grass in all
-      your virtual houses. You open your eyes to see your iPhone1 3. Wait for
-      what? Is there a glitch? You clench your eyes shut tightly to gain
-      clarity. Get it together! With all the courage you peel open your eyes.
-      It’s 2021 again.
-
-
-      The metaverse is still in the works. Metamask doesn’t allow you to view
-      your NFTs. TipsyTiger Club is not yet formed. 
-
-
-      Oh no, you think. I’ll have to bring the band together for all the crazy
-      parties we’ll have. You remember joining as a member the first time. It’ll
-      be fun to do this again. See you all in 2046.
+    content: "Are you an alcohol lover? Do you feel like there is something larger than life waiting to happen? Do you sometimes wonder if you could be part of a non-judgemental party community from all around the world? \n\nWe all know, what is a party without booze? \n\nWhat better if the booze NEVER STOPS FLOWING? And then, we had a lightbulb moment, why don’t we OWN A BREWERY?\_\n\nWell, Congratulations. You’re about to be part of an ultra-exclusive community of party degens cubs in the metaverse.\_\n\nThe TipsyTiger Club is home to 10,000 unique TipsyTigers NFT generated from 140+ hand-drawn traits.\_\n\nWe are the party degens of the metaverse.\_ If parties, drinks, raves surge through our veins, then snag a TipsyTiger to be part of this revolutionary movement. This is a no-bullshit NFT project - no cliché roadmap, no unoriginal giveaways, no lame milestones. Just us being us, loving dranks, crypto, parties, all things NFT, and looking for like-minded degens to be a part of this family.\n"
     actions: []
     actions_position: bottom
     actions_width: fourty
