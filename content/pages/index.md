@@ -158,7 +158,7 @@ sections:
         media_width: fifty
         align: left
         image: /images/Icon 50%.png
-      - title: lorem-ipsum
+      - title: 0%
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
