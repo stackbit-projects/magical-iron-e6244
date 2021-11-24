@@ -334,7 +334,7 @@ sections:
       fringilla, fringilla.
     actions:
       - label: PUBLIC MINT COMING SOON
-        url: /mint
+        url: /
         style: primary
     actions_position: bottom
     align: center
