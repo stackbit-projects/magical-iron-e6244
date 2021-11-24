@@ -167,7 +167,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-        image: /images/Icon 50%.png
+        image: /images/50-icon.png
     feature_padding_vert: large
     align: center
     background_color: none
