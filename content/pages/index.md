@@ -203,7 +203,7 @@ sections:
     background_color: none
     has_border: true
     section_id: team
-    background_image: /images/862206-7bda14df.webp
+    background_image: /images/4064494.jpg
   - type: grid_section
     title: FREQUENTLY ASKED QUESTIONS
     grid_items:
