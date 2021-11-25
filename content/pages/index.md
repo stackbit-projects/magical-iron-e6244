@@ -263,19 +263,6 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: When is the release date?
-        title_align: left
-        content: |
-          Release date will be mid-December.
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
       - title: How much will a TipsyTiger cost?
         title_align: left
         content: >
@@ -325,6 +312,19 @@ sections:
 
           *   Hold the TipsyTiger and join us in investing and multiplying our
           million-dollar DAO community wallet!
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+      - title: When is the release date?
+        title_align: left
+        content: |
+          Release date will be mid-December.
         content_align: left
         actions: []
         actions_align: left
