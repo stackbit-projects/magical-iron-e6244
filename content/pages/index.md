@@ -41,7 +41,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: /images/example.gif
-    background_image: /images/test.png
+    background_image: /images/862206.webp
   - section_id: lorem-ipsum
     title: 'We all know, what is a party without booze?'
     content: "What if the booze NEVER STOPS FLOWING? And then, we had a lightbulb moment, why don’t we OWN A BREWERY?\n\nWe will kick off our marketing campaign by buying a brewery and launching the world’s first NFT themed, TipsyTiger Hard Seltzer.\_ Our NFTs will be engraved on the cans and shipped all over the world for our party degens to enjoy.\_\n\nTipsyTiger Club members will be invited to exclusive launch parties around the world. Join us for private raves and meet-ups in NYC, London,\_Singapore, and more.\_\n\nWe are also a premium DAO. 50% of all secondary sales royalties and 30% of all sales profit from Hard Seltzer will be deposited to the DAO community wallet. Who says you can’t make money while drinking and partying?\n"
