@@ -58,7 +58,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: /images/tipsytiger beer.jpg
     background_image: /images/2021-11-23 20.35.40-b71ecf59.jpg
   - type: features_section
     title: ROADMAP
