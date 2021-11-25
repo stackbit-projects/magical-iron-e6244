@@ -120,7 +120,7 @@ sections:
     background_color: none
     has_border: true
     section_id: roadmap
-    background_image: /images/862206-077a031c.webp
+    background_image: /images/4064494.jpg
   - type: grid_section
     title: TIPSYTIGER PERKS
     grid_items:
