@@ -145,7 +145,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Sandbox Metaverse
+      - title: Metaverse
         title_align: left
         content: "TipsyTiger Club will be the pioneer for box-office music festivals and nightclubs in the metaverse. Be the first to witness our metaverse world and be a VIP in our future metaverse events.\_\n"
         content_align: left
