@@ -309,21 +309,6 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: How do I know all these are real?
-        title_align: left
-        content: >
-          You should know drunkards are the most honest when they are drunk,
-          well, I am drunk while typing this. And yes, co-owning a brewery with
-          a group of degens will be the biggest flip-off you can flex in 2022. 
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
       - title: Why should I mint a TipsyTiger?
         title_align: left
         content: >
@@ -340,6 +325,21 @@ sections:
 
           *   Hold the TipsyTiger and join us in investing and multiplying our
           million-dollar DAO community wallet!
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
+      - title: How do I know all these are real?
+        title_align: left
+        content: >
+          You should know drunkards are the most honest when they are drunk,
+          well, I am drunk while typing this. And yes, co-owning a brewery with
+          a group of degens will be the biggest flip-off you can flex in 2022. 
         content_align: left
         actions: []
         actions_align: left
