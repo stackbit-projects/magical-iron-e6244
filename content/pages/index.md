@@ -326,7 +326,22 @@ sections:
         image_has_padding: false
       - title: Why should I mint a TipsyTiger?
         title_align: left
-        content: "Flip, sell, trade. The TipsyTiger collection will be a top-tier NFT with its impeccable intrinsic value. There are many ways to earn:\_Do what your heart desires, after all, we are all NFT degens and we love the game.\n\n*   Flip TipsyTiger NFT for a quick profit, but you will lose access to the community\n\n*   Earn passive income with dividend payouts from our Hard Seltzer line \n\n*   Hold the TipsyTiger and join the community for future ventures. Join us in investing and multiplying our million-dollar DAO community wallet!\n"
+        content: >
+          Flip, sell, trade. The TipsyTiger collection will be a top-tier NFT
+          with its impeccable intrinsic value. Do what your heart desires:
+
+
+          *   Flip TipsyTiger NFT for a quick profit, but you will lose access
+          to the community
+
+
+          *   Earn passive income with dividend payouts from our Hard Seltzer
+          line
+
+
+          *   Hold the TipsyTiger and join the community for future ventures.
+          Join us in investing and multiplying our million-dollar DAO community
+          wallet!
         content_align: left
         actions: []
         actions_align: left
