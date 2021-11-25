@@ -43,7 +43,6 @@ sections:
     image: /images/example.gif
   - section_id: lorem-ipsum
     title: 'We all know, what is a party without booze?'
-    subtitle: lorem-ipsum
     content: "What if the booze NEVER STOPS FLOWING? And then, we had a lightbulb moment, why don’t we OWN A BREWERY?\n\nWith that, we will kick off our marketing campaign by buying a brewery and launching the world’s first NFT themed, TipsyTiger Hard Seltzer.\_ Our NFTs will be engraved on the cans and shipped all over the world for our party degens to enjoy.\_\n\nTipsyTiger Club members will be invited to exclusive launch parties around the world, join us for private rave parties and meet-ups with entrepreneurs and celebrities in New York City, London,\_ Singapore and more.\_\n\nThe TipsyTiger Club is also a premium DAO. 50% of all secondary sales royalties and 30% of all sales profit from The TipsyTiger Hard Seltzer will be deposited to the DAO community wallet. Who says you can’t make money while drinking and partying?\n"
     actions: []
     image_alt: lorem-ipsum
