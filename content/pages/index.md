@@ -40,7 +40,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: 'We all know, what is a party without booze?'
     content: >-
       ## Lorem ipsum
 
