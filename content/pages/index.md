@@ -107,8 +107,7 @@ sections:
           the first 6 months, TipsyTigers will travel the world to host official
           launch parties in different key cities like London, Los Angeles,
           Singapore, Tokyo, etc. Enjoy the amazing hard seltzer while we market
-          your NFT for the whole world to see. (where is the metaverse mentioned
-          here?) we need to tell them.
+          your NFT for the whole world to see.
         actions: []
         image_alt: lorem-ipsum
         media_position: left
