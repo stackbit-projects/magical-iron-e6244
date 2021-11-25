@@ -331,17 +331,15 @@ sections:
           with its impeccable intrinsic value. Do what your heart desires:
 
 
-          *   Flip TipsyTiger NFT for a quick profit, but you will lose access
-          to the community
+          *   Flip TipsyTiger NFT for a quick profit but lose access to the
+          community
 
 
-          *   Earn passive income with dividend payouts from our Hard Seltzer
-          line
+          *   Earn passive income with profits  from our Hard Seltzer line
 
 
-          *   Hold the TipsyTiger and join the community for future ventures.
-          Join us in investing and multiplying our million-dollar DAO community
-          wallet!
+          *   Hold the TipsyTiger and join us in investing and multiplying our
+          million-dollar DAO community wallet!
         content_align: left
         actions: []
         actions_align: left
