@@ -5,7 +5,7 @@
     "style": "bold",
     "palette": "red",
     "mode": "dark",
-    "base_font": "Monoton",
+    "base_font": "sans-serif",
     "header": {
         "title": "Tipsy Tiger Club",
         "logo": "images/classic/logo.svg",
