@@ -171,7 +171,6 @@ sections:
     has_border: true
     section_id: utility
     subtitle: Every TipsyTiger NFT Holder will enjoy 3 unique utilities
-    background_image: /images/862202.png
   - type: grid_section
     title: THE TIPSYTIGER TEAM
     actions: []
