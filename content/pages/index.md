@@ -43,7 +43,7 @@ sections:
     content: "Are you an alcohol lover? Do you feel like there is something larger than life waiting to happen? Do you sometimes wonder if you could be part of a non-judgemental party community from around the world?\n\n### Well, Congratulations.\n\nYou’re about to be part of an ultra-exclusive community of party degens cubs in the metaverse.\_\n\nThe TipsyTiger Club is home to 10,000 unique TipsyTigers NFT generated from 140+ hand-drawn traits. We are the party degens of the metaverse.\_ If parties, drinks, raves surge through our veins, then snag a TipsyTiger to be part of this revolutionary movement. This is a no bullshit NFT project - no cliché roadmap, no unoriginal giveaways, no lame milestones. Just us being us, loving dranks, crypto, parties, all things NFT and looking for like-minded degens to be a part of this family.\n"
     actions: []
     image_alt: lorem-ipsum
-    media_position: top
+    media_position: left
     media_width: fourty
     align: right
     padding_top: medium
