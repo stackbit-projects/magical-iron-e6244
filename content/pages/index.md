@@ -257,7 +257,7 @@ sections:
       - title: MARKETING HEAD
         subtitle: Operations Manager
         title_align: center
-        image: /images/diamond example1.jpg
+        image: /images/Ethel.jpg
         image_position: top
         image_align: center
     grid_cols: four
