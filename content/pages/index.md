@@ -459,7 +459,7 @@ seo:
     - name: 'twitter:description'
       value: Party degens of the Metaverse
     - name: 'twitter:image'
-      value: /images/diamond example1-f9a36a36.jpg
+      value: /images/Zac-0919efbc.jpg
       relativeUrl: true
 layout: advanced
 ---
