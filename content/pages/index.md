@@ -125,12 +125,12 @@ sections:
       - title: '75% - New York, New York'
         content: >
           Exclusive invites-only TipsyTiger Hard Seltzer Soft Launch party.
-          Upping the ante, we will invite the holders of the TipsyTigers to an
-          exclusive meetup in New York City. Your TipsyTigers NFTs will be the
+          Upping the ante, we will invite the holders of the TipsyTiger to an
+          exclusive meetup in New York City. Your TipsyTiger NFTs will be the
           entry ticket into this networking event. Get to know accomplished
           entrepreneurs, crypto investors, influencers from our meetups and
           expand your network. Party to world-renowned DJs and be the first to
-          taste the flavors of our TipsyTigers Hard Seltzers. Drinks on us, it’s
+          taste the flavors of our TipsyTiger Hard Seltzers. Drinks on us, it’s
           time to send it.
         actions: []
         image: /images/Icon 75.png
