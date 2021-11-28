@@ -8,7 +8,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "Tipsy Tiger Club",
-        "logo": "images/classic/logo.svg",
+        "logo": "/images/Logo transparent.png",
         "logo_alt": "Tipsy Tiger Club",
         "has_primary_nav": false,
         "primary_nav_links": [
