@@ -59,7 +59,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: /images/example.gif
+    image: /images/TIPSYTIGER_GIF.gif
     background_image: /images/4064494.jpg
   - section_id: lorem-ipsum
     title: 'We all know, what is a party without booze?'
