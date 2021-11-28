@@ -237,7 +237,7 @@ sections:
     title: THE TIPSYTIGER TEAM
     actions: []
     grid_items:
-      - title: FUEGO
+      - title: SPITFIRE
         subtitle: Co-Founder
         title_align: center
         image: /images/Zac.jpg
