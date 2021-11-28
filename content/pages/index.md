@@ -254,7 +254,7 @@ sections:
         image: /images/bk.jpg
         image_position: top
         content_align: left
-      - title: MARKETING HEAD
+      - title: DRUNKPUNK
         subtitle: Operations Manager
         title_align: center
         image: /images/Ethel.jpg
