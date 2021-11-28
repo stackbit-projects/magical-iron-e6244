@@ -277,13 +277,12 @@ sections:
         image_width: twenty-five
         title: Why create a hard seltzer?
       - content: >
-          TipsyTiger Hard Seltzer will be an extension of TipsyTiger Club. From
-          collaborations to sponsorships, the drink unlocks endless
-          possibilities to market the TipsyTiger Club. We have intentionally
-          added the TipsyTiger NFT to the logo. This radiates the presence of
-          our brand around the world. Imagine TipsyTiger NFT in every party and
-          club and people chugging shotguns with your PFP on every can. What a
-          sight that will be.
+          We want to create our unique hard seltzer for the community. It also
+          adds real-life utility to our TipsyTigers NFT. Why wear a merch when
+          you can drink it? The Tipsy Tiger seltzer line is also one of the ways
+          we market TipsyTigers NFT while giving back to TipsyTiger Club members
+          with the profit-sharing model, creating an extra stream of income for
+          our degen cubs through physical sales.
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
