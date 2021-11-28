@@ -351,7 +351,7 @@ sections:
           top-tier NFT artists, and experienced community managers, mainly
           alcoholics who are bored of what’s offered in the current market. We
           believe in developing a project with true value. No frills and no
-          bullshit. Join our discord to interact with us.
+          bullshit. 
         content_align: left
         actions: []
         actions_align: left
