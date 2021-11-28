@@ -346,7 +346,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: Where did the hard seltzer idea came from?
+      - title: Where did the hard seltzer idea come from?
         title_align: left
         content: >
           We want to create our unique hard seltzer for the community. It also
