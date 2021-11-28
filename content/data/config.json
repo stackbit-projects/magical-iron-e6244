@@ -129,11 +129,6 @@
                 "style": "link"
             },
             {
-                "label": "Contact Us",
-                "url": "/blog/category/general",
-                "style": "link"
-            },
-            {
                 "label": "Terms and Conditions",
                 "url": "/terms-conditions",
                 "style": "link",
