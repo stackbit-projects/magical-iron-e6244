@@ -251,7 +251,7 @@ sections:
       - title: DRUNKPUNK
         subtitle: ART DIRECTOR
         title_align: center
-        image: /images/goldexample3.jpg
+        image: /images/bk.jpg
         image_position: top
         content_align: left
       - title: MARKETING HEAD
