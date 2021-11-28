@@ -268,10 +268,12 @@ sections:
     title: FREQUENTLY ASKED QUESTIONS
     grid_items:
       - content: >
-          We are serious alcoholics that are passionate about generating income
-          while enjoying what we do. When we tasted our first seltzer together
-          as a team some time back, we had a dream of launching and owning our
-          very own seltzer line. Bonus: it is also gluten-free!
+          We want to create our unique hard seltzer for the community. It also
+          adds real-life utility to our TipsyTigers NFT. Why wear a merch when
+          you can drink it? The Tipsy Tiger seltzer line is also one of the ways
+          we market TipsyTigers NFT while giving back to TipsyTiger Club members
+          with the profit-sharing model, creating an extra stream of income for
+          our degen cubs through physical sales.
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
