@@ -194,7 +194,6 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-        image: /images/beer1.png
       - title: TipsyTiger Club VIP Pass
         title_align: left
         content: >
