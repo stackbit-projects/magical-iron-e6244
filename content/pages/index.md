@@ -334,7 +334,7 @@ sections:
           Each TipsyTiger will cost 0.07 ETH. Early VIP holders (1000 slots) can
           mint at 0.05 ETH. They can avoid gas wars with a designated 24-hours
           minting period and most importantly, be guaranteed a raffle for TESLA
-          Model 3 giveaways. Join our discord for more info!
+          Model 3 giveaways. Join our discord for more info! 
         content_align: left
         actions: []
         actions_align: left
