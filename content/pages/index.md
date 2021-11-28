@@ -277,8 +277,8 @@ sections:
         image_width: twenty-five
         title: Why create a hard seltzer?
       - content: >
-          TipsyTiger Hard Seltzer will be an extension of TipsyTiger Club. From
-          collaborations to sponsorships, the drink unlocks endless
+          TipsyTiger Hard Seltzer will be an extension of the TipsyTiger Club.
+          From collaborations to sponsorships, the drink unlocks endless
           possibilities to market the TipsyTiger Club. We have intentionally
           added the TipsyTiger NFT to the logo. This radiates the presence of
           our brand around the world. Imagine TipsyTiger NFT in every party and
