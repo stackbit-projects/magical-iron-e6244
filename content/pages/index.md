@@ -182,7 +182,11 @@ sections:
     grid_items:
       - title: TipsyTiger Hard Seltzer
         title_align: left
-        content: "Co-own a hard seltzer line and join us in building the world’s premium NFT hard seltzer. Gain access to private launch parties, vote on limited-edition flavors, earn dividends from sales.\_\n"
+        content: >
+          Dreamt of owning your very own business? Co-own a hard seltzer line
+          with the TipsyTigers. Join us in building the world’s first premium
+          NFT hard seltzer. Gain access to private launch parties, vote on
+          limited-edition flavors, earn dividends from sales.
         content_align: left
         actions: []
         actions_align: left
