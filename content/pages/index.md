@@ -268,13 +268,10 @@ sections:
     title: FREQUENTLY ASKED QUESTIONS
     grid_items:
       - content: >
-          We are serious alcoholics that are passionate about making our unique
-          hard seltzer for the community. Why wear a merch when you can drink
-          it? We believe that this is the perfect gluten-free NFT merchandise
-          for all to enjoy. The Tipsy Tiger seltzer is also one of the ways we
-          market TipsyTiger while giving back to TipsyTiger Club members with
-          the profit-sharing model, creating an extra stream of income for our
-          degen cubs
+          We are serious alcoholics that are passionate about generating income
+          while enjoying what we do. When we tasted our first seltzer together
+          as a team some time back, we had a dream of launching and owning our
+          very own seltzer line. Bonus: it is also gluten-free!
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
