@@ -25,7 +25,26 @@ sections:
     title: Welcome To The TipsyTiger Club
     subtitle: ' '
   - section_id: congratulations
-    content: "Do you love alcohol? Do you feel like there is something larger than life waiting to happen? Do you sometimes wonder if you could be part of a fun and engaging party community from around the world?\n\n**Well, Congratulations. You found TipsyTigers!**\n\n\rYou’re about to be part of an ultra-exclusive community of alcoholic party degens cubs in the metaverse.\n\nThe TipsyTiger Club is home to 10,000 unique TipsyTigers NFT generated from 140+ hand-drawn traits. We are the party degens of the metaverse.  If parties, drinks, raves surge through your veins, snag a TipsyTiger to be part of this revolutionary movement. This is a no bullshit NFT project - no cliché roadmap, no lame milestones, original giveaways. Just us being us, loving dranks, crypto, parties, all things NFT. And we are looking for like-minded degens to be a part of our family.\n"
+    content: >
+      Do you love alcohol? Do you feel like there is something larger than life
+      waiting to happen? Do you sometimes wonder if you could be part of a fun
+      and engaging party community from around the world?
+
+
+      **Well, Congratulations. You found the TipsyTiger Club!**
+
+
+      You’re about to be part of an ultra-exclusive community of alcoholic party
+      degens cubs in the metaverse.
+
+
+      The TipsyTiger Club is home to 10,000 unique TipsyTigers NFT generated
+      from 140+ hand-drawn traits. We are the party degens of the metaverse.  If
+      parties, drinks, raves surge through your veins, snag a TipsyTiger to be
+      part of this revolutionary movement. This is a no bullshit NFT project -
+      no cliché roadmap, no lame milestones, original giveaways. Just us being
+      us, loving dranks, crypto, parties, all things NFT. And we are looking for
+      like-minded degens to be a part of our family.
     actions: []
     image_alt: lorem-ipsum
     media_position: left
