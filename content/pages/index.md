@@ -362,10 +362,6 @@ sections:
     section_id: faq
   - type: cta_section
     title: JOIN THE EXCLUSIVE TIPSYTIGER CLUB NOW
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
     actions:
       - label: PUBLIC MINT COMING SOON
         url: /
