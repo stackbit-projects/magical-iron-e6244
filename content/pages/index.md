@@ -329,7 +329,7 @@ sections:
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
-        title: What is the relationship between club members and Hard Seltzer?
+        title: What is the relationship between club members and the hard seltzer?
       - title: How do TIpsyTiger NFT Holders benefit from TipsyTiger Hard Seltzer?
         title_align: left
         content: >
