@@ -361,7 +361,7 @@ sections:
     background_color: secondary
     section_id: faq
   - type: cta_section
-    title: JOIN THE EXCLUSIVE TIPSYTIGER CLUB NOW
+    title: Join The Exclusive Tipsy Tiger Club Now
     actions:
       - label: PUBLIC MINT COMING SOON
         url: /
