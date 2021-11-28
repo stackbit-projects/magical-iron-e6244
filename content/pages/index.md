@@ -457,7 +457,7 @@ seo:
     - name: 'twitter:title'
       value: Tipsy Tiger Club
     - name: 'twitter:description'
-      value: An NFT Club From The Future
+      value: Party degens of the Metaverse
     - name: 'twitter:image'
       value: /images/diamond example1-f9a36a36.jpg
       relativeUrl: true
