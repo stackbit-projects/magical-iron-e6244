@@ -344,7 +344,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
-      - title: 'Who is the team behind TipsyTiger Club? '
+      - title: Why create a NFT hard seltzer line?
         title_align: left
         content: >
           The team developing the NFT consists of successful entrepreneurs,
