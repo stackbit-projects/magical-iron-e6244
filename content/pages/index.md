@@ -315,7 +315,7 @@ sections:
       - title: How do TIpsyTiger NFT Holders benefit from TipsyTiger Hard Seltzer?
         title_align: left
         content: >
-          Marketing and profits. 30% of all TipsyTiger Hard Seltzer will be
+          Marketing and profits. 20% of all TipsyTiger Hard Seltzer will be
           shared amongst all NFT holders. Most importantly, this provides
           TipsyTiger NFT with real-life utility and endless marketing
           opportunities.
