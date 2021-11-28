@@ -82,7 +82,7 @@ sections:
   - type: features_section
     title: ROADMAP
     features:
-      - title: 0% - Welcome to TipsyTigers Social Club
+      - title: 0% - Welcome to TipsyTiger Club
         content: >
           Purchase 1 NFT and become a TipsyTiger VIP holder (1000 slots only).
           VIP members mint at a discounted price, gain early access to sales,
