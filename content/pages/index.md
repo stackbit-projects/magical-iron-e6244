@@ -175,7 +175,7 @@ sections:
     actions: []
     grid_items:
       - title: CO-FOUNDER
-        subtitle: Co-Founder & CEO
+        subtitle: Co-Founder
         title_align: center
         image: /images/diamond example.jpg
         image_position: top
