@@ -201,7 +201,6 @@ sections:
         content_align: left
         actions: []
         actions_align: left
-        image: images/classic/icon-2.svg
         image_alt: Section item 2 icon
         image_position: top
         image_align: left
