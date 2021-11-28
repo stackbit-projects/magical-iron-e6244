@@ -347,11 +347,12 @@ sections:
       - title: Why create a NFT hard seltzer line?
         title_align: left
         content: >
-          The team developing the NFT consists of successful entrepreneurs,
-          top-tier NFT artists, and experienced community managers, mainly
-          alcoholics who are bored of what’s offered in the current market. We
-          believe in developing a project with true value. No frills and no
-          bullshit. 
+          We want to create our unique hard seltzer for the community. It also
+          adds real-life utility to our TipsyTigers NFT. Why wear a merch when
+          you can drink it? The Tipsy Tiger seltzer line is also one of the ways
+          we market TipsyTigers NFT while giving back to TipsyTiger Club members
+          with the profit-sharing model, creating an extra stream of income for
+          our degen cubs through physical sales.
         content_align: left
         actions: []
         actions_align: left
