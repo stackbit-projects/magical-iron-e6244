@@ -3,7 +3,7 @@ title: Tipsy Tiger Club
 sections:
   - type: hero_section
     actions:
-      - label: PUBLIC MINT COMING SOON
+      - label: JOIN OUR DISCORD NOW
         url: '#'
         style: primary
         has_icon: false
