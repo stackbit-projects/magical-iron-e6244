@@ -125,7 +125,7 @@
         "secondary_nav_links": [
             {
                 "label": "Whitepaper",
-                "url": "/blog/category/news",
+                "url": "https://tipsytigerclub.gitbook.io/",
                 "style": "link"
             },
             {
