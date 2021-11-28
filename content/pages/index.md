@@ -186,7 +186,7 @@ sections:
         image: /images/example2.jpg
         image_position: top
       - title: DRUNKPUNK
-        subtitle: Developer Advocate
+        subtitle: ART DIRECTOR
         title_align: center
         image: /images/goldexample3.jpg
         image_position: top
