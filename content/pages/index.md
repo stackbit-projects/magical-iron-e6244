@@ -240,7 +240,7 @@ sections:
       - title: FUEGO
         subtitle: Co-Founder
         title_align: center
-        image: /images/diamond example.jpg
+        image: /images/Zac.jpg
         image_position: top
         content_align: center
       - title: TURBODEVV
