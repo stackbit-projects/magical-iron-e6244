@@ -330,7 +330,9 @@ sections:
         image_position: left
         image_width: twenty-five
         title: What is the relationship between club members and the hard seltzer?
-      - title: How do TIpsyTiger NFT Holders benefit from TipsyTiger Hard Seltzer?
+      - title: >-
+          How do TIpsyTiger NFT Holders benefit from the TipsyTiger Hard
+          Seltzer?
         title_align: left
         content: >
           Marketing and profits. 20% of all TipsyTiger Hard Seltzer will be
