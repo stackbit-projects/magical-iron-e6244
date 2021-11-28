@@ -174,7 +174,7 @@ sections:
     title: THE TIPSYTIGER TEAM
     actions: []
     grid_items:
-      - title: FOUNDER
+      - title: CO-FOUNDER
         subtitle: Co-Founder & CEO
         title_align: center
         image: /images/diamond example.jpg
