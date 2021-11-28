@@ -290,12 +290,13 @@ sections:
         title: How does it help with marketing?
       - content: >
           The team behind TipsyTiger Club are successful owners of prominent
-          alcoholic beverages. Packaging and product research and development
-          are already underway. The next step will be the acquisition of our
-          very own brewery. Once all TipsyTigers are fully minted, we will
-          proceed with official productions. From launch parties to
-          collaborations with DJs, sporting events, TipsyTiger Club will focus
-          on marketing after mint to make the brand go viral worldwide.
+          restaurants, bars, and cocktail delivery services. Packaging and
+          product research and development are already underway. The next step
+          will be the acquisition of our very own physical brewery. Once all
+          TipsyTigers are fully minted, we will proceed with official
+          productions. From launch parties to collaborations with DJs, sporting
+          events, TipsyTiger Club will focus on marketing after mint to make the
+          brand go viral worldwide.
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
