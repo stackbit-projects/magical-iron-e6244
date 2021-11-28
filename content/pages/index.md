@@ -197,11 +197,11 @@ sections:
       - title: TipsyTiger Club VIP Pass
         title_align: left
         content: >
-          Get on the guestlist to our parties across the globe in major cities
-          like Los Angeles, Singapore, London, Miami, Hong Kong. Access stealth
-          events and be the first to taste limited-edition flavors. Celebrate
-          and party with us in style. Time to rave with like-minded successful
-          individuals.
+          Get in on the guestlist to our parties across the globe in major
+          cities like Los Angeles, Singapore, London, Miami, Hong Kong. Access
+          stealth events and be the first to taste limited-edition flavors.
+          Celebrate and party with us in style. Time to rave with like-minded
+          successful individuals.
         content_align: left
         actions: []
         actions_align: left
