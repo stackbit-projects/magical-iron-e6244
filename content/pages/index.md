@@ -267,6 +267,22 @@ sections:
   - type: grid_section
     title: FREQUENTLY ASKED QUESTIONS
     grid_items:
+      - title: Where did the hard seltzer idea come from?
+        title_align: left
+        content: >
+          We are serious alcoholics that are passionate about generating income
+          while enjoying what we do. When we tasted our first seltzer together
+          as a team some time back, we had a dream of launching and owning our
+          very own seltzer line. Bonus: it is also gluten-free!
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
       - content: >
           We want to create our unique hard seltzer for the community. It also
           adds real-life utility to our TipsyTigers NFT. Why wear a merch when
@@ -337,22 +353,6 @@ sections:
           mint at 0.05 ETH. They can avoid gas wars with a designated 24-hours
           minting period and most importantly, be guaranteed a raffle for TESLA
           Model 3 giveaways. Join our discord for more info! 
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-      - title: Where did the hard seltzer idea come from?
-        title_align: left
-        content: >
-          We are serious alcoholics that are passionate about generating income
-          while enjoying what we do. When we tasted our first seltzer together
-          as a team some time back, we had a dream of launching and owning our
-          very own seltzer line. Bonus: it is also gluten-free!
         content_align: left
         actions: []
         actions_align: left
