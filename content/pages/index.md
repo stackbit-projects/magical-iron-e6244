@@ -84,11 +84,12 @@ sections:
     features:
       - title: 0% - Welcome to TipsyTigers Social Club
         content: >
-          Join us and be a TipsyTigers VIP holder (1000 slots only). VIP members
-          mint at a discounted price, gain early access to sales, and many more.
-          When we achieve 10,000 members in our Discord server, we will drop our
-          TipsyTiger Hard Seltzer website that features our hard seltzer line,
-          sneak peeks of our brewery and a massive $100,000 giveaway.
+          Purchase 1 NFT and become a TipsyTiger VIP holder (1000 slots only).
+          VIP members mint at a discounted price, gain early access to sales,
+          and many more. When we achieve 10,000 members in our Discord server,
+          we will drop our TipsyTiger Hard Seltzer website that features our
+          hard seltzer line, sneak peeks of our brewery and $10,000 worth of
+          seltzers giveaway.
         actions: []
         image_alt: lorem-ipsum
         media_position: left
