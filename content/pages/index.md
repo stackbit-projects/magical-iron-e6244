@@ -137,7 +137,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: thirty-three
-      - title: 100% - Official launch of TipsyTigers Hard Seltzer
+      - title: 100% - Official launch of TipsyTiger Hard Seltzer
         content: >
           Once we are fully minted, The TipsyTiger Club will acquire our very
           own crowdsourced, NFT backed, brewery and within 9 months, The
