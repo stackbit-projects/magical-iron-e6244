@@ -109,14 +109,14 @@ sections:
         media_width: thirty-three
       - title: 50% - Around the World
         content: >
-          Now the TipsyTigers are going worldwide. Our Tigers belong to the
+          Now the TipsyTiger is going worldwide. Our Tigers belong to the
           billboards of the world. To celebrate this milestone, we will be
           launching the biggest marketing campaign around the world. Imagine
           your very own NFT being shown in the middle of Times Square, Shibuya,
           Piccadilly Circus. Let’s get helicopters and jets to fly our
           TipsyTiger banners across major cities. With the world watching, we
           aim to increase awareness and interest in the project and drive up
-          demand for our TipsyTigers NFTs! To the moon!
+          demand for our TipsyTiger NFTs! To the moon!
         actions: []
         image: /images/50-icon.png
         image_alt: Feature 2 placeholder image
