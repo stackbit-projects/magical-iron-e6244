@@ -455,7 +455,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Tipsy Tiger Club
+      value: The TipsyTiger Club
     - name: 'twitter:description'
       value: Party degens of the Metaverse
     - name: 'twitter:image'
