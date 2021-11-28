@@ -221,7 +221,7 @@ sections:
         content_align: left
         actions: []
         actions_align: left
-        image: images/classic/icon-3.svg
+        image: /images/world-f7ca1206.png
         image_alt: Section item 3 icon
         image_position: top
         image_align: left
