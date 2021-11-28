@@ -437,7 +437,7 @@ sections:
     has_border: true
 seo:
   title: The TipsyTiger Club
-  description: A NFT Club From The Future
+  description: Party Degens of the Metaverse
   extra:
     - name: 'og:type'
       value: website
