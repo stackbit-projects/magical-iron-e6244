@@ -174,7 +174,7 @@ sections:
     title: THE TIPSYTIGER TEAM
     actions: []
     grid_items:
-      - title: CO-FOUNDER
+      - title: FUEGO
         subtitle: Co-Founder
         title_align: center
         image: /images/diamond example.jpg
