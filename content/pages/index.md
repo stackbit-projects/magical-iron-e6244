@@ -248,7 +248,7 @@ sections:
         title_align: center
         image: /images/capamerica.jpg
         image_position: top
-      - title: DRUNKPUNK
+      - title: FUEGO
         subtitle: ART DIRECTOR
         title_align: center
         image: /images/bk.jpg
