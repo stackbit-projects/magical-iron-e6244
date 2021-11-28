@@ -436,7 +436,7 @@ sections:
     background_color: none
     has_border: true
 seo:
-  title: Tipsy Tiger Club
+  title: The TipsyTiger Club
   description: A NFT Club From The Future
   extra:
     - name: 'og:type'
