@@ -443,7 +443,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Tipsy Tiger Club
+      value: The TipsyTiger Club
       keyName: property
     - name: 'og:description'
       value: Party degens of the Metaverse
