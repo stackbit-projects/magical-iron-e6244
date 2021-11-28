@@ -449,7 +449,7 @@ seo:
       value: Party degens of the Metaverse
       keyName: property
     - name: 'og:image'
-      value: /images/diamond example1-9512edb5.jpg
+      value: /images/Zac-0919efbc.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
