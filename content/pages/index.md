@@ -372,7 +372,7 @@ sections:
           community
 
 
-          *   Earn passive income with profits  from our Hard Seltzer line
+          *   Earn with us from our Hard Seltzer line
 
 
           *   Hold the TipsyTiger and join us in investing and multiplying our
