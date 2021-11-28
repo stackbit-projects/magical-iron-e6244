@@ -211,7 +211,11 @@ sections:
         image_has_padding: true
       - title: Metaverse
         title_align: left
-        content: "TipsyTiger Club will be the pioneer for box-office music festivals and nightclubs in the metaverse. Be the first to witness our metaverse world and be a VIP in our future metaverse events.\_\n"
+        content: >
+          The TipsyTiger Club will pioneer the first-ever box-office music
+          festivals and nightclubs in the metaverse. Be the first to witness the
+          shaping of the metaverse world for party degens and be a VIP in our
+          future metaverse events.
         content_align: left
         actions: []
         actions_align: left
