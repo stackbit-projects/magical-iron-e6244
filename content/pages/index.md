@@ -249,7 +249,7 @@ sections:
         image: /images/capamerica.jpg
         image_position: top
       - title: FUEGO
-        subtitle: ART DIRECTOR
+        subtitle: MARKETING DIRECTOR
         title_align: center
         image: /images/bk.jpg
         image_position: top
