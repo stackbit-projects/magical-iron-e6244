@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     actions:
       - label: JOIN OUR DISCORD NOW
-        url: '#'
+        url: 'https://discord.gg/Cf82cCC2Vm'
         style: primary
         has_icon: false
         icon: arrow-left
