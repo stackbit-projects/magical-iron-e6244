@@ -246,7 +246,7 @@ sections:
       - title: TURBODEVV
         subtitle: Co-Founder/Dev
         title_align: center
-        image: /images/example2.jpg
+        image: /images/capamerica.jpg
         image_position: top
       - title: DRUNKPUNK
         subtitle: ART DIRECTOR
