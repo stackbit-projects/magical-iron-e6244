@@ -181,7 +181,7 @@ sections:
         image_position: top
         content_align: center
       - title: TURBODEVV
-        subtitle: Software Engineer
+        subtitle: Co-Founder/Dev
         title_align: center
         image: /images/example2.jpg
         image_position: top
