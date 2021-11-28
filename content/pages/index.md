@@ -425,7 +425,7 @@ sections:
   - type: cta_section
     title: Join The Exclusive Tipsy Tiger Club Now
     actions:
-      - label: PUBLIC MINT COMING SOON
+      - label: JOIN OUR DISCORD NOW
         url: /
         style: primary
     actions_position: bottom
