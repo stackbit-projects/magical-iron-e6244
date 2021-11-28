@@ -426,7 +426,7 @@ sections:
     title: Join The Exclusive Tipsy Tiger Club Now
     actions:
       - label: JOIN OUR DISCORD
-        url: 'https://t.co/J45ApNtY8B?amp=1'
+        url: 'https://discord.gg/Cf82cCC2Vm'
         style: primary
     actions_position: bottom
     align: center
