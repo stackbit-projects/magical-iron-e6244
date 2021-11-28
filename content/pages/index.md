@@ -404,7 +404,7 @@ sections:
         content: >
           You should know drunkards are the most honest when they are drunk,
           well, I am drunk while typing this. And yes, co-owning a brewery with
-          a group of degens will be the biggest flip-off you can flex in 2022. 
+          a group of degens will be the biggest flip-off you can flex in 2022.
         content_align: left
         actions: []
         actions_align: left
