@@ -180,7 +180,7 @@ sections:
         image: /images/diamond example.jpg
         image_position: top
         content_align: center
-      - title: CO-FOUNDER/DEV
+      - title: TURBODEVV
         subtitle: Software Engineer
         title_align: center
         image: /images/example2.jpg
