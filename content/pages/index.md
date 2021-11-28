@@ -255,7 +255,7 @@ sections:
         image_position: top
         content_align: left
       - title: DRUNKPUNK
-        subtitle: Operations Manager
+        subtitle: Art Director
         title_align: center
         image: /images/Ethel.jpg
         image_position: top
