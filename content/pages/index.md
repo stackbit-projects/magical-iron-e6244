@@ -425,7 +425,7 @@ sections:
   - type: cta_section
     title: Join The Exclusive Tipsy Tiger Club Now
     actions:
-      - label: JOIN OUR DISCORD NOW
+      - label: JOIN OUR DISCORD
         url: /
         style: primary
     actions_position: bottom
