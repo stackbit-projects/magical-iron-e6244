@@ -43,3 +43,9 @@
 
 // fonts
 @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script');
+
+@font-face {
+    font-family: 'Lato';
+    font-weight: 900;
+    src: local('Lato'), url(./fonts/Lato-Black.otf) format('opentype');
+}
