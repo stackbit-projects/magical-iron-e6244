@@ -18,7 +18,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    background_image: /images/Spitfire2709 (2).svg
+    background_image: /images/banner1.gif
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
