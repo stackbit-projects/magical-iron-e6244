@@ -137,7 +137,7 @@ sections:
           aim to increase awareness and interest in the project and drive up
           demand for our TipsyTiger NFTs! To the moon!
         actions: []
-        image: /images/50-icon.png
+        image: /images/50-46f09652.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: thirty-three
