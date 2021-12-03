@@ -122,7 +122,7 @@ sections:
           of our TipsyTiger NFTs. The first 2500 TipsyTigers holders will be
           guaranteed an opportunity to walk away with a new whip.
         actions: []
-        image: /images/icon 25.png
+        image: /images/25-8dbc37d2.png
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: thirty-three
