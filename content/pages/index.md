@@ -170,7 +170,7 @@ sections:
         media_position: left
         media_width: thirty-three
         align: left
-        image: /images/icon 100.png
+        image: /images/100-1bd6faa8.png
     feature_padding_vert: large
     align: center
     background_color: none
