@@ -112,7 +112,7 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         media_position: left
-        media_width: fourty
+        media_width: thirty-three
         align: left
         image: /images/0.png
       - title: 25% - TESLA MODEL 3 Giveaway
