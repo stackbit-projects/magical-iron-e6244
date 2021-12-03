@@ -152,7 +152,7 @@ sections:
           taste the flavors of our TipsyTiger Hard Seltzers. Drinks on us, it’s
           time to send it.
         actions: []
-        image: /images/Icon 75.png
+        image: /images/75-5ce450d8.png
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: thirty-three
