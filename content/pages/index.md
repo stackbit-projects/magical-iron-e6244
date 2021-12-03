@@ -367,8 +367,8 @@ sections:
       - title: Why should I mint a TipsyTiger?
         title_align: left
         content: >
-          Flip, sell, trade. The TipsyTiger collection will be a top-tier NFT
-          with its impeccable intrinsic value. Do what your heart desires:
+          Flip, sell, trade. The TipsyTiger collection is a top-tier NFT with
+          its impeccable intrinsic value. Do what your heart desires:
 
 
           *   Flip TipsyTiger NFT for a quick profit but lose access to the
