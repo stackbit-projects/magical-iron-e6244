@@ -114,7 +114,7 @@ sections:
         media_position: left
         media_width: fourty
         align: left
-        image: /images/icon 0.png
+        image: /images/0.png
       - title: 25% - TESLA MODEL 3 Giveaway
         content: >
           At TipsyTiger, giving back to the backers of our project is part of
