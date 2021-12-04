@@ -85,6 +85,19 @@ export default class HeroSection extends React.Component {
                                 })}
                             >   
                                 <span>&nbsp;&nbsp;</span>
+                                  {!_.isEmpty(actions) && (
+                                    <div
+                                        className={classNames('hero__actions', 'btn-group', {
+                                            'justify-center': alignX === 'center',
+                                            'justify-end': alignX === 'right'
+                                        })}
+                                    >
+                                        <SectionActions actions={actions} />
+                                        <span>&nbsp;&nbsp;</span>
+
+                                    </div>
+                                    
+                                )}
 
                                 {title && <h1 className="hero__title">{title}</h1>}
 
