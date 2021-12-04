@@ -115,6 +115,7 @@ export default class HeroSection extends React.Component {
                     </div>
                     {<span>&nbsp;&nbsp;</span>}
                 </div>
+                {<span>&nbsp;&nbsp;</span>}
             </section>
         );
     }
