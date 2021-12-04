@@ -105,6 +105,7 @@ export default class HeroSection extends React.Component {
 
                                 {content && <div className="hero__copy">{markdownify(content)}</div>}
                                 {''}
+                                 {''}
 
                                 <span>&nbsp;&nbsp;</span>
 
