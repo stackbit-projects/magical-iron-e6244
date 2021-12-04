@@ -104,7 +104,7 @@ export default class HeroSection extends React.Component {
                                 {subtitle && <p className="hero__subtitle">{subtitle}</p>}
 
                                 {content && <div className="hero__copy">{markdownify(content)}</div>}
-                                <div id="test" style={{ visibility: this.state.appear ? 'visible' : 'hidden' }}>
+                                <div id="test" style={{ visibility: 'hidden' }}>
   {{underScore}}
 </div>
 
