@@ -98,8 +98,7 @@ export default class HeroSection extends React.Component {
                                     </div>
                                     
                                 )}
-                                { <span>&nbsp;&nbsp;</span>
-}
+                                { <span>&nbsp;&nbsp;</span>}
                                 {title && <h1 className="hero__title">{title}</h1>}
 
                                 {subtitle && <p className="hero__subtitle">{subtitle}</p>}
