@@ -231,7 +231,7 @@ sections:
     background_color: none
     has_border: true
     section_id: utility
-    subtitle: 'WE ARE INVESTING $1,000,000 '
+    subtitle: 'WE ARE INVESTING $1,000,000USD FOR OUR HOLDERS'
   - type: grid_section
     title: THE TIPSYTIGER TEAM
     actions: []
