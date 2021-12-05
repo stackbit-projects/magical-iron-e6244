@@ -18,7 +18,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    background_image: /images/background-Recovered.png
+    background_image: /images/background-Recovered-88aa3d22.png
     background_image_size: cover
     background_image_position: center center
     background_image_repeat: no-repeat
