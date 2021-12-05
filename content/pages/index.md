@@ -35,7 +35,7 @@ sections:
 
 
       You’re about to be part of an ultra-exclusive community of alcoholic party
-      degens cubs in the metaverse.
+      degens in the metaverse.
 
 
       The TipsyTiger Club is home to 10,000 unique TipsyTigers NFT generated
