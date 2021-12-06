@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     actions:
       - label: JOIN OUR DISCORD NOW
-        url: 'https://discord.gg/Cf82cCC2Vm'
+        url: 'https://discord.gg/tipsytigerclub'
         style: primary
         has_icon: false
         icon: arrow-left
