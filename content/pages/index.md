@@ -127,7 +127,7 @@ sections:
       - title: 100% - Official launch of TipsyTiger Hard Seltzer
         content: >
           Once we are fully minted, The TipsyTiger Club will acquire our very
-          own crowdsourced, NFT backed, brewery and within 9 months, The
+          own crowdsourced, NFT-backed, brewery. Within 9 months, the
           TipsyTigers Hard Seltzer cans will be available WORLDWIDE. For the
           first 6 months, TipsyTigers will travel the world to host official
           launch parties in different key cities like London, Los Angeles,
