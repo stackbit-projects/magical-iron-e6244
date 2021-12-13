@@ -25,7 +25,7 @@ sections:
     title: WELCOME TO THE TIPSYTIGER CLUB
     background_image: /images/final_cropped 2.png
   - section_id: congratulations
-    content: "## The best NFTs are the ones backed by real-life assets.\_\n\nThis will be the first-ever NFT community-backed HARD SELTZER product. Members will share profit from hard seltzer sales and this will be the MOST ingenious marketing move any NFT project has ever done. Join the Tipsy Squad and be a proud owner of a TipsyTiger.\_\n"
+    content: "### The best NFTs are the ones that are backed by real-life assets.\_\n\nThis will be the first-ever community-backed HARD SELTZER NFT project. Members of the TipsyTiger Club will share profits from hard seltzer sales and be a part of running the hard seltzer line.  \n\nThis will also be the MOST ingenious marketing move any NFT project has ever done. Imagine having your NFT printed on cans at parties around the world. Join the Tipsy Squad and be a proud owner of a TipsyTiger.\_\n"
     actions: []
     image_alt: lorem-ipsum
     media_position: left
