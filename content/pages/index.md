@@ -44,8 +44,22 @@ sections:
   - section_id: lorem-ipsum
     title: 'Airdrops SERUM & TESLA GIVEAWAY '
     content: >
-      Now, what if the booze never stops flowing? And then, we had a lightbulb
-      moment, why don’t we OWN A BREWERY?
+      Airdrops will be given to community members that hold the TipsyTiger NFT
+      for more than 7 days.
+
+
+      Each airdropped serum can combine two TipsyTiger NFT to breed a new and
+      rarer TipsyTiger. 
+
+
+      Mint the first 2500 TipsyTigers NFT to enter a raffle for a TESLA
+      GIVEAWAY. 
+
+
+
+
+
+
 
 
       With that idea, TipsyTigers will be launching the world’s first NFT
