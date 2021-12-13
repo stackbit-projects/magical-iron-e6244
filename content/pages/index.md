@@ -45,38 +45,13 @@ sections:
     title: 'Airdrops SERUM & TESLA GIVEAWAY '
     content: >
       Airdrops will be given to community members that hold the TipsyTiger NFT
-      for more than 7 days.
+      for more than 7 days after the public sale. Each airdropped serum can be
+      used to combine two TipsyTiger NFT to breed a BRAND NEW and RARER
+      TipsyTiger.
 
 
-      Each airdropped serum can combine two TipsyTiger NFT to breed a new and
-      rarer TipsyTiger. 
-
-
-      Mint the first 2500 TipsyTigers NFT to enter a raffle for a TESLA
-      GIVEAWAY. 
-
-
-
-
-
-
-
-
-      With that idea, TipsyTigers will be launching the world’s first NFT
-      themed, TipsyTiger Hard Seltzer. Our NFTs will be engraved on every single
-      seltzer can and shipped all over the continents for our party degens cubs
-      and for the world to enjoy.
-
-
-      Being a TipsyTiger Club member, you will be invited to exclusive launch
-      parties around the world with other degen cubs. Join us for private raves,
-      city view rooftop parties, and meet-ups in NYC, London, Singapore, and
-      more.
-
-
-      We are also a premium DAO. 50% of all secondary sales royalties and 20% of
-      all sales profit from Hard Seltzer will be deposited to the DAO community
-      wallet. Who says you can’t make money while drinking and partying?
+      And if you mint and own the first 2500 TipsyTigers NFT, you get a chance
+      the win a TESLA home.
     actions: []
     image_alt: lorem-ipsum
     media_position: right
