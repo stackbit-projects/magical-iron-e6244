@@ -151,7 +151,7 @@ sections:
       - title: TipsyTiger Hard Seltzer
         title_align: left
         content: >
-          Dreamt of owning your very own business? Co-own a hard seltzer line
+          Dreamt of owning your very own business? Co-share a hard seltzer line
           with the TipsyTigers. Join us in building the world’s first premium
           NFT hard seltzer. Gain access to private launch parties, vote on
           limited-edition flavors, earn dividends from sales.
