@@ -42,7 +42,7 @@ sections:
     type: hero_section
     image: /images/PFP_GIF.gif
   - section_id: lorem-ipsum
-    title: 'We all know, what is a party without booze?'
+    title: 'Airdrops SERUM & TESLA GIVEAWAY '
     content: >
       Now, what if the booze never stops flowing? And then, we had a lightbulb
       moment, why don’t we OWN A BREWERY?
