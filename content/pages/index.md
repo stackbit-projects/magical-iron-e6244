@@ -42,7 +42,7 @@ sections:
     type: hero_section
     image: /images/PFP_GIF.gif
   - section_id: lorem-ipsum
-    title: 'Airdrops SERUM & TESLA GIVEAWAY '
+    title: 'Free Airdrop & TESLA GIVEAWAY '
     content: >
       Airdrops will be given to community members that hold the TipsyTiger NFT
       for more than 7 days after the public sale. Each airdropped serum can be
