@@ -360,7 +360,7 @@ sections:
       - title: When is the release date?
         title_align: left
         content: |
-          Release date will be mid-December.
+          The pre-sale date will be 20 Dec. Public sale will be on 22 Dec. 
         content_align: left
         actions: []
         actions_align: left
