@@ -51,7 +51,7 @@ sections:
 
 
       And if you mint and own the first 2500 TipsyTigers NFT, you get a chance
-      the win a TESLA home.
+      the win a special 1/1 ultra-rare  NFT and a TESLA home. 
     actions: []
     image_alt: lorem-ipsum
     media_position: right
