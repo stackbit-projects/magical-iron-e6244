@@ -23,6 +23,7 @@ sections:
     background_image_repeat: no-repeat
     subtitle: ' '
     title: WELCOME TO THE TIPSYTIGER CLUB
+    background_image: /images/final_cropped 2.png
   - section_id: congratulations
     content: >
       Do you love alcohol? Do you feel like there is something larger than life
