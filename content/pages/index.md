@@ -87,9 +87,9 @@ sections:
       - title: 25% - TESLA MODEL 3 Giveaway
         content: >
           At TipsyTiger, giving back to the backers of our project is part of
-          our core values. We’ll host a Tesla Model 3 giveaway upon sale of 25%
-          of our TipsyTiger NFTs. The first 2500 TipsyTigers holders will be
-          guaranteed an opportunity to walk away with a new whip.
+          our core values. We’ll host a Tesla Model 3 giveaway once we reach 25%
+          sale of our TipsyTiger NFTs. The first 2500 TipsyTigers holders will
+          be guaranteed an opportunity to walk away with a new whip.
         actions: []
         image: /images/25-8dbc37d2.png
         image_alt: Feature 1 placeholder image
