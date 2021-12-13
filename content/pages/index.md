@@ -60,6 +60,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     background_image: /images/4064494.jpg
+    image: /images/PFP_GIF.gif
   - section_id: lorem-ipsum
     title: 'We all know, what is a party without booze?'
     content: >
