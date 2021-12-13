@@ -25,26 +25,7 @@ sections:
     title: WELCOME TO THE TIPSYTIGER CLUB
     background_image: /images/final_cropped 2.png
   - section_id: congratulations
-    content: >
-      Do you love alcohol? Do you feel like there is something larger than life
-      waiting to happen? Do you sometimes wonder if you could be part of a fun
-      and engaging party community from around the world?
-
-
-      **Well, Congratulations. You found the TipsyTiger Club!**
-
-
-      You’re about to be part of an ultra-exclusive community of alcoholic party
-      degens in the metaverse.
-
-
-      The TipsyTiger Club is home to 10,000 unique TipsyTigers NFT generated
-      from 140+ hand-drawn traits. We are the party degens of the metaverse.  If
-      parties, drinks, raves surge through your veins, snag a TipsyTiger to be
-      part of this revolutionary movement. This is a no bullshit NFT project -
-      no cliché roadmap, no lame milestones, original giveaways. Just us being
-      us, loving dranks, crypto, parties, all things NFT. And we are looking for
-      like-minded degens to be a part of our family.
+    content: "## The best NFTs are the ones backed by real-life assets.\_\n\nThis will be the first-ever NFT community-backed HARD SELTZER product. Members will share profit from hard seltzer sales and this will be the MOST ingenious marketing move any NFT project has ever done. Join the Tipsy Squad and be a proud owner of a TipsyTiger.\_\n"
     actions: []
     image_alt: lorem-ipsum
     media_position: left
