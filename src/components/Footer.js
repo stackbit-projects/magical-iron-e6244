@@ -55,7 +55,8 @@ export default class Footer extends React.Component {
                                 {hasPrimaryNav && !_.isEmpty(primaryNavLinks) && this.renderNav(primaryNavLinks, primaryNavTitle)}
                                 {hasSecondaryNav && !_.isEmpty(secondaryNavLinks) && this.renderNav(secondaryNavLinks, secondaryNavTitle)}
                                 {hasTertiaryNav && !_.isEmpty(tertiaryNavLinks) && this.renderNav(tertiaryNavLinks, tertiaryNavTitle)}
-                                <span></span>
+                                <span><img src="/media/2018/08/kitten.jpg" alt="Kitten"
+	title="A cute kitten" width="150" height="100" /></span>
                             </div>
                         </div>
                     </div>
