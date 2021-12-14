@@ -393,7 +393,6 @@ sections:
     section_id: faq
   - section_id: SEEN
     title: AS SEEN ON
-    subtitle: lorem-ipsum
     actions: []
     grid_items:
       - title: lorem-ipsum
