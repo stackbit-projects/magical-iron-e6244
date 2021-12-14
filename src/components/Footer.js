@@ -55,7 +55,7 @@ export default class Footer extends React.Component {
                                 {hasPrimaryNav && !_.isEmpty(primaryNavLinks) && this.renderNav(primaryNavLinks, primaryNavTitle)}
                                 {hasSecondaryNav && !_.isEmpty(secondaryNavLinks) && this.renderNav(secondaryNavLinks, secondaryNavTitle)}
                                 {hasTertiaryNav && !_.isEmpty(tertiaryNavLinks) && this.renderNav(tertiaryNavLinks, tertiaryNavTitle)}
-                                <span><img src="https://nftcalendar.io/assets/logo/nftcalendar-logo.png" alt="Kitten"
+                                <div>AS SEEN ON </div><span><img src="https://nftcalendar.io/assets/logo/nftcalendar-logo.png" alt="Kitten"
 	title="A cute kitten" width="50" height="50" /></span>
                             </div>
                         </div>
