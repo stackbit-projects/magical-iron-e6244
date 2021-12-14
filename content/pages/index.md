@@ -395,8 +395,7 @@ sections:
     title: AS SEEN ON
     actions: []
     grid_items:
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content_align: left
         actions:
           - label: NFT CALENDAR
