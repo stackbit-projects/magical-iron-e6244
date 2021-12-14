@@ -392,7 +392,7 @@ sections:
     background_color: secondary
     section_id: faq
   - section_id: SEEN
-    title: lorem-ipsum
+    title: AS SEEN ON
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
