@@ -407,6 +407,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        content: "\\<img src=\"https://nftcalendar.io/assets/logo/nftcalendar-logo.png\" alt=\"NFT Calendar\"\n\ttitle=\"NFT Calendar\" width=\"50\" height=\"50\" />\n\n"
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
