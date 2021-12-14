@@ -401,7 +401,7 @@ sections:
         content_align: left
         actions:
           - label: NFT CALENDAR
-            url: '#'
+            url: 'http://NFTCalendar.io'
             style: link
             has_icon: false
             icon: arrow-left
