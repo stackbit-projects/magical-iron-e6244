@@ -54,7 +54,11 @@ export default class Footer extends React.Component {
                                 {logo && <Link className="site-footer__logo cell-12 cell-md-5 my-4" href={withPrefix('/')}><img src={withPrefix(logo)} alt={logoAlt} /></Link>}
                                 {hasPrimaryNav && !_.isEmpty(primaryNavLinks) && this.renderNav(primaryNavLinks, primaryNavTitle)}
                                 {hasSecondaryNav && !_.isEmpty(secondaryNavLinks) && this.renderNav(secondaryNavLinks, secondaryNavTitle)}
-                                {hasTertiaryNav && !_.isEmpty(tertiaryNavLinks) && this.renderNav(tertiaryNavLinks, tertiaryNavTitle)}
+                                {hasTertiaryNav && !_.isEmpty(tertiaryNavLinks) && this.renderNav(tertiaryNavLinks, tertiaryNavTitle)
+                                
+                                <span><img src="https://nftcalendar.io/assets/logo/nftcalendar-logo.png" alt="Kitten"
+    title="A cute kitten" width="50" height="50" /></span>
+    }
                                 <div>AS SEEN ON <span><img src="https://nftcalendar.io/assets/logo/nftcalendar-logo.png" alt="Kitten"
 	title="A cute kitten" width="50" height="50" /></span></div>
                             </div>
