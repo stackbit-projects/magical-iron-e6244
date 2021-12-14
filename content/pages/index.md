@@ -43,8 +43,7 @@ sections:
     image: /images/PFP_GIF.gif
   - section_id: lorem-ipsum
     title: 'Free Airdrop & TESLA GIVEAWAY '
-    content: |
-      #####
+    content: "SERUMS will be airdropped for free to the TIPSYTIGER CLUB members that hold the TipsyTiger NFT for more than 7 days after the public sale. \n\nEach airdropped serum can be used to combine two TipsyTiger NFT to breed a BRAND NEW and RARER TipsyTiger.\n\n\rAnd if you mint and own the first 2000 TipsyTigers NFT, you get a chance the win a special 1/1 ultra-rare  NFT and a free TESLA home.\n"
     actions: []
     image_alt: lorem-ipsum
     media_position: right
