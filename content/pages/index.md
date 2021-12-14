@@ -391,7 +391,7 @@ sections:
     align: center
     background_color: secondary
     section_id: faq
-  - section_id: lorem-ipsum
+  - section_id: AS SEEN ON
     title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
