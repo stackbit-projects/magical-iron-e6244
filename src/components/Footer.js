@@ -92,7 +92,7 @@ export default class Footer extends React.Component {
                     </div>
                 )}
                   <div className='nft-calendar'>AS SEEN ON <span><br></br>
-                  <a href="https://nftcalendar.io/">
+                  <a href="https://nftcalendar.io/event/tipsytiger-club/">
                   <img src="https://nftcalendar.io/assets/logo/nftcalendar-logo.png" alt="Kitten"
 	title="A cute kitten" width="70" height="70" />
     </a>
