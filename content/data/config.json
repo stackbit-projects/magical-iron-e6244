@@ -139,7 +139,7 @@
                 "no_follow": false
             }
         ],
-        "has_tertiary_nav": true,
+        "has_tertiary_nav": false,
         "tertiary_nav_title": "AS SEEN ON",
         "tertiary_nav_links": [
             {
