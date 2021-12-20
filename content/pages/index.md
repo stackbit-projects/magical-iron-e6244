@@ -3,7 +3,7 @@ title: Tipsy Tiger Club
 sections:
   - type: hero_section
     actions:
-      - label: JOIN OUR DISCORD NOW
+      - label: MINT NOW
         url: 'https://discord.gg/VhbsBKy6aE'
         style: primary
         has_icon: false
