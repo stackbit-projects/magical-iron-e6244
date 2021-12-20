@@ -188,18 +188,7 @@
             }
         ],
         "content": "© 2021 TipsyTiger Club. All rights reserved. No part of this work may be reproduced in any material form without the written permission of the copyright owners except in accordance with the provisions of the Copyright Act or under express terms of a licence granted by the copyright owners.",
-        "links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
-            }
-        ]
+        "links": []
     },
     "announcement": {
         "has_anncmnt": false,
