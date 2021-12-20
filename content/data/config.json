@@ -111,7 +111,7 @@
             },
             {
                 "label": "Etherscan",
-                "url": "0xF6E3858Bd11ad10288c9575afce9976FC9Aa937C",
+                "url": "https://etherscan.io/address/0xf6e3858bd11ad10288c9575afce9976fc9aa937c",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
