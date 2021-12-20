@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     actions:
       - label: MINT NOW
-        url: 'https://discord.gg/VhbsBKy6aE'
+        url: 'https://mint.tipsytigerclub.com/'
         style: primary
         has_icon: false
         icon: arrow-left
