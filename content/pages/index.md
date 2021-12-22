@@ -80,7 +80,7 @@ sections:
         content: >
           At TipsyTiger, giving back to the backers of our project is part of
           our core values. We’ll host a Tesla Model 3 giveaway once we reach 25%
-          sale of our TipsyTiger NFTs. The first 2500 TipsyTigers holders will
+          sale of our TipsyTiger NFTs. The first 2000 TipsyTigers holders will
           be guaranteed an opportunity to walk away with a new whip.
         actions: []
         image: /images/25-8dbc37d2.png
