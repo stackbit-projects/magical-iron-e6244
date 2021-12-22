@@ -64,12 +64,12 @@ sections:
     features:
       - title: 0% - Welcome to TipsyTiger Club
         content: >
-          Join our discord and become a TipsyTiger VIP member (500 slots only).
-          VIP members mint at a discounted price, gain early access to sales,
-          and many more. When we achieve 10,000 members in our Discord server,
-          we will do AMAs with community members and drop more details about our
-          TipsyTiger Hard Seltzer. We will also have up to $10,000 worth of
-          giveaways for our discord members.
+          Join our discord and become a TipsyTiger VIP member. VIP members mint
+          at a discounted price, gain early access to sales, and many more. When
+          we achieve 10,000 members in our Discord server, we will do AMAs with
+          community members and drop more details about our TipsyTiger Hard
+          Seltzer. We will also have up to $10,000 worth of giveaways for our
+          discord members.
         actions: []
         image_alt: lorem-ipsum
         media_position: left
