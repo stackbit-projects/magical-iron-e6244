@@ -97,7 +97,7 @@ export default class Footer extends React.Component {
 	title="A cute kitten" width="70" height="70" />
     </a>
      <a href="https://nftcalendar.io/event/tipsytiger-club/">
-                  <img src="https://nftcalendar.io/assets/logo/nftcalendar-logo.png" alt="Kitten"
+                  <img src="https://upcomingnft.art/wp-content/webp-express/webp-images/uploads/2021/12/Logo-Dark-BG-art.png.webp" alt="Kitten"
 	title="A cute kitten" width="70" height="70" />
     </a>
     </span></div>
