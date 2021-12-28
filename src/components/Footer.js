@@ -98,7 +98,7 @@ export default class Footer extends React.Component {
     </a>
      <a href="https://upcomingnft.art/tipsytiger-club/">
                   <img src="https://upcomingnft.art/wp-content/webp-express/webp-images/uploads/2021/12/Logo-Dark-BG-art.png.webp" alt="Kitten"
-	title="Upcoming NFT" width="200" height="70" />
+	title="Upcoming NFT" width="190" height="70" />
     </a>
     </span></div>
             </footer>
